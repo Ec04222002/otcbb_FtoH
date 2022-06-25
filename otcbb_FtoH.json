@@ -1,0 +1,4596 @@
+[{
+    "symbol": "FABP",
+    "name": "Farmers Bancorp [In]"
+  },
+  {
+    "symbol": "FACO",
+    "name": "First Acceptance Corp"
+  },
+  {
+    "symbol": "FACYF",
+    "name": "Fancl Corp. [Yokahama Japan]"
+  },
+  {
+    "symbol": "FAGI",
+    "name": "Full Alliance Group Inc"
+  },
+  {
+    "symbol": "FAHYF",
+    "name": "Ishares IV Plc"
+  },
+  {
+    "symbol": "FALC",
+    "name": "Falconstor Software Inc"
+  },
+  {
+    "symbol": "FALFF",
+    "name": "Falcon Metals Ltd"
+  },
+  {
+    "symbol": "FAMDF",
+    "name": "Futura Medical Plc Ord"
+  },
+  {
+    "symbol": "FANDY",
+    "name": "Firstrand Ltd"
+  },
+  {
+    "symbol": "FANUF",
+    "name": "Fanuc Ltd"
+  },
+  {
+    "symbol": "FANUY",
+    "name": "Fanuc Ltd Unsp A ADR"
+  },
+  {
+    "symbol": "FARYF",
+    "name": "Far Ltd"
+  },
+  {
+    "symbol": "FAVO",
+    "name": "Favo Cap Inc"
+  },
+  {
+    "symbol": "FBAK",
+    "name": "First Natl Bk Alaska"
+  },
+  {
+    "symbol": "FBASF",
+    "name": "Fibra Uno"
+  },
+  {
+    "symbol": "FBAYF",
+    "name": "Fortune Bay"
+  },
+  {
+    "symbol": "FBBPF",
+    "name": "Prologis Property Mexico Sa DE Cv"
+  },
+  {
+    "symbol": "FBCD",
+    "name": "Fbc Hld Inc"
+  },
+  {
+    "symbol": "FBCPF",
+    "name": "Fabled Copper Corp"
+  },
+  {
+    "symbol": "FBEC",
+    "name": "Fbec Worldwide Inc"
+  },
+  {
+    "symbol": "FBGI",
+    "name": "Foodbase Group Inc"
+  },
+  {
+    "symbol": "FBMCF",
+    "name": "Buffalo Coal Corp"
+  },
+  {
+    "symbol": "FBPA",
+    "name": "Farmers Bank [Va]"
+  },
+  {
+    "symbol": "FBPI",
+    "name": "First Bncp Ind"
+  },
+  {
+    "symbol": "FBRKF",
+    "name": "Fastbrick Robotics Ltd"
+  },
+  {
+    "symbol": "FBSE",
+    "name": "Fastbase Inc"
+  },
+  {
+    "symbol": "FBSGF",
+    "name": "Fabled Silver Gold Corp"
+  },
+  {
+    "symbol": "FBSI",
+    "name": "First Bancshares"
+  },
+  {
+    "symbol": "FBTT",
+    "name": "First Bankers Trshs"
+  },
+  {
+    "symbol": "FBVA",
+    "name": "Farmers Banksha Inc"
+  },
+  {
+    "symbol": "FBVI",
+    "name": "Fcn Banc Corp"
+  },
+  {
+    "symbol": "FCBRF",
+    "name": "First Trust Global Funds Plc"
+  },
+  {
+    "symbol": "FCCI",
+    "name": "Fast Casual Concepts Inc"
+  },
+  {
+    "symbol": "FCCN",
+    "name": "Fusa Capital Corp"
+  },
+  {
+    "symbol": "FCCT",
+    "name": "First Community Corp"
+  },
+  {
+    "symbol": "FCCTP",
+    "name": "First Comnty Corp A"
+  },
+  {
+    "symbol": "FCELB",
+    "name": "Fuelcell Energy Pf B"
+  },
+  {
+    "symbol": "FCGD",
+    "name": "First Colombia Gold Corp"
+  },
+  {
+    "symbol": "FCHS",
+    "name": "First Choice Healthcare Solutions"
+  },
+  {
+    "symbol": "FCIC",
+    "name": "FcCC Inc"
+  },
+  {
+    "symbol": "FCIT",
+    "name": "First Citrus Bancorp"
+  },
+  {
+    "symbol": "FCMGF",
+    "name": "Firm Capital Mortgage Investment Corp"
+  },
+  {
+    "symbol": "FCNCB",
+    "name": "First Citizens Bks B"
+  },
+  {
+    "symbol": "FCNE",
+    "name": "Four Corners Inc"
+  },
+  {
+    "symbol": "FCOB",
+    "name": "1st Colonial Bcp PA"
+  },
+  {
+    "symbol": "FCODF",
+    "name": "Compagnie DE L'Odet"
+  },
+  {
+    "symbol": "FCPB",
+    "name": "First Capital Bancsh"
+  },
+  {
+    "symbol": "FCREY",
+    "name": "Fletcher Building Ltd ADR"
+  },
+  {
+    "symbol": "FCRM",
+    "name": "Franklin Credit Management Corp"
+  },
+  {
+    "symbol": "FCSMD",
+    "name": "Focus Graphite Inc"
+  },
+  {
+    "symbol": "FCSMF",
+    "name": "Focus Metals Inc"
+  },
+  {
+    "symbol": "FCUUF",
+    "name": "Fission Uranium"
+  },
+  {
+    "symbol": "FCVFF",
+    "name": "Fcc Co. Ltd"
+  },
+  {
+    "symbol": "FCXXF",
+    "name": "First Capital Real Estate Investment Trust"
+  },
+  {
+    "symbol": "FDBH",
+    "name": "Founders Bay Holdings"
+  },
+  {
+    "symbol": "FDBL",
+    "name": "Friendable Inc"
+  },
+  {
+    "symbol": "FDCFF",
+    "name": "Forum Uranium Corp"
+  },
+  {
+    "symbol": "FDCHF",
+    "name": "Funding Circle Hldgs Ltd"
+  },
+  {
+    "symbol": "FDCT",
+    "name": "Fdctech Inc"
+  },
+  {
+    "symbol": "FDFT",
+    "name": "Foodfest Intl 2000"
+  },
+  {
+    "symbol": "FDGMF",
+    "name": "Southstone Minerals Ltd"
+  },
+  {
+    "symbol": "FDHC",
+    "name": "Fidelity Holding Corp"
+  },
+  {
+    "symbol": "FDIT",
+    "name": "Findit Inc"
+  },
+  {
+    "symbol": "FDMDF",
+    "name": "4Dmedical Ltd"
+  },
+  {
+    "symbol": "FDMSF",
+    "name": "Fandifi Technology Corp"
+  },
+  {
+    "symbol": "FDOC",
+    "name": "Fuel Doctor Holdings Inc"
+  },
+  {
+    "symbol": "FDRVF",
+    "name": "Fd Technologies Plc"
+  },
+  {
+    "symbol": "FDVA",
+    "name": "Freedom Financial Hldgs Inc"
+  },
+  {
+    "symbol": "FDVRF",
+    "name": "Facedrive Inc"
+  },
+  {
+    "symbol": "FDVXF",
+    "name": "First Division Ventures Inc"
+  },
+  {
+    "symbol": "FECCF",
+    "name": "Pacific Exploration & Production Corp"
+  },
+  {
+    "symbol": "FECOF",
+    "name": "Fec Resources Inc"
+  },
+  {
+    "symbol": "FEERF",
+    "name": "Freeport Resources Inc"
+  },
+  {
+    "symbol": "FEEXF",
+    "name": "Ferrexpo Plc."
+  },
+  {
+    "symbol": "FEEXY",
+    "name": "Ferrexpo Plc."
+  },
+  {
+    "symbol": "FELTF",
+    "name": "Fuji Electric Company Ltd"
+  },
+  {
+    "symbol": "FELTY",
+    "name": "Fuji Electric Holdin"
+  },
+  {
+    "symbol": "FEMFF",
+    "name": "First Energy Metals Ltd"
+  },
+  {
+    "symbol": "FERL",
+    "name": "Fearless Films Inc"
+  },
+  {
+    "symbol": "FERN",
+    "name": "Fernhill Corp"
+  },
+  {
+    "symbol": "FESNF",
+    "name": "First Re Invst TR"
+  },
+  {
+    "symbol": "FETM",
+    "name": "Fentura Finl Inc"
+  },
+  {
+    "symbol": "FEXXF",
+    "name": "Fjordland Expl Inc"
+  },
+  {
+    "symbol": "FFDF",
+    "name": "Ffd Financial Corp"
+  },
+  {
+    "symbol": "FFLO",
+    "name": "Free Flow Inc"
+  },
+  {
+    "symbol": "FFLWF",
+    "name": "Fire & Flower Holdings Corp"
+  },
+  {
+    "symbol": "FFMGF",
+    "name": "First Mining Gold Corp"
+  },
+  {
+    "symbol": "FFMH",
+    "name": "First Fmrs Mrchts CO"
+  },
+  {
+    "symbol": "FFMR",
+    "name": "First Farmers Financial Corp"
+  },
+  {
+    "symbol": "FFNTF",
+    "name": "4Front Ventures Corp"
+  },
+  {
+    "symbol": "FFOXF",
+    "name": "Firefox Gold Corp"
+  },
+  {
+    "symbol": "FFPP",
+    "name": "Fast Finance Pay Corp"
+  },
+  {
+    "symbol": "FFTTF",
+    "name": "Fatfish Group Ltd"
+  },
+  {
+    "symbol": "FFWC",
+    "name": "Ffw Corp"
+  },
+  {
+    "symbol": "FFXDF",
+    "name": "Fairfax India Ho-Sub"
+  },
+  {
+    "symbol": "FFXXF",
+    "name": "Fairfax Africa Holdings"
+  },
+  {
+    "symbol": "FFZY",
+    "name": "Fansfrenzy Corp"
+  },
+  {
+    "symbol": "FGCO",
+    "name": "Financial Gravity Companies Inc"
+  },
+  {
+    "symbol": "FGFH",
+    "name": "Foresight Financial"
+  },
+  {
+    "symbol": "FGFI",
+    "name": "First Greenwich Financial Inc"
+  },
+  {
+    "symbol": "FGLDF",
+    "name": "Falcon Gold Corp"
+  },
+  {
+    "symbol": "FGOVF",
+    "name": "Freegold Ventures"
+  },
+  {
+    "symbol": "FGPHF",
+    "name": "First Graphene Ltd"
+  },
+  {
+    "symbol": "FGPR",
+    "name": "Ferrellgas Partners L.P."
+  },
+  {
+    "symbol": "FGPRB",
+    "name": "Ferrellgas Partners LP"
+  },
+  {
+    "symbol": "FGROF",
+    "name": "Firstgroup Plc"
+  },
+  {
+    "symbol": "FGROY",
+    "name": "Firstgroup Plc Uns ADR"
+  },
+  {
+    "symbol": "FGRRF",
+    "name": "Fingerprint Cards Ab [Publ]"
+  },
+  {
+    "symbol": "FGWLF",
+    "name": "Flughafen Wien Ag"
+  },
+  {
+    "symbol": "FHBC",
+    "name": "Fernhill Beverage Inc"
+  },
+  {
+    "symbol": "FHELF",
+    "name": "First Helium Inc"
+  },
+  {
+    "symbol": "FHGDF",
+    "name": "Founder Holdings Ltd"
+  },
+  {
+    "symbol": "FHLB",
+    "name": "Friendly Hills Bancorp"
+  },
+  {
+    "symbol": "FHLD",
+    "name": "Freedom Hldg Inc"
+  },
+  {
+    "symbol": "FHNGY",
+    "name": "Foschini Group Ltd"
+  },
+  {
+    "symbol": "FHRT",
+    "name": "First Hartford Corp"
+  },
+  {
+    "symbol": "FHYDF",
+    "name": "First Hydrogen Corp"
+  },
+  {
+    "symbol": "FIBH",
+    "name": "First Bancshares Inc"
+  },
+  {
+    "symbol": "FIDS",
+    "name": "Fnb Inc"
+  },
+  {
+    "symbol": "FIEB",
+    "name": "First Ic Corp"
+  },
+  {
+    "symbol": "FIFG",
+    "name": "First Foods Group Inc"
+  },
+  {
+    "symbol": "FILG",
+    "name": "Grayscale Filecoin Trust"
+  },
+  {
+    "symbol": "FINGF",
+    "name": "Finning International Inc"
+  },
+  {
+    "symbol": "FINMF",
+    "name": "Finmeccanica Spa"
+  },
+  {
+    "symbol": "FINMY",
+    "name": "Finmeccanica ADR"
+  },
+  {
+    "symbol": "FINN",
+    "name": "First National of Nebraska Inc"
+  },
+  {
+    "symbol": "FIORF",
+    "name": "Fiore Cannabais Ltd"
+  },
+  {
+    "symbol": "FISB",
+    "name": "1st Cap Bancorp"
+  },
+  {
+    "symbol": "FISOF",
+    "name": "Fission 3.0"
+  },
+  {
+    "symbol": "FITGF",
+    "name": "Foxconn Interconnect Technology Ltd"
+  },
+  {
+    "symbol": "FITSF",
+    "name": "Koios Beverage Corp"
+  },
+  {
+    "symbol": "FITX",
+    "name": "Creative Edge Nutrition Inc"
+  },
+  {
+    "symbol": "FJHL",
+    "name": "Fovea Jewelry Holdings Ltd"
+  },
+  {
+    "symbol": "FJTNF",
+    "name": "Fuji Media Holdings Inc"
+  },
+  {
+    "symbol": "FJTNY",
+    "name": "Fuji Media Holdings Inc ADR"
+  },
+  {
+    "symbol": "FJTSF",
+    "name": "Fujitsu Ltd"
+  },
+  {
+    "symbol": "FJTSY",
+    "name": "Fujitsu Ltd ADR"
+  },
+  {
+    "symbol": "FKKFY",
+    "name": "Fukuoka Financial Group Inc"
+  },
+  {
+    "symbol": "FKRAF",
+    "name": "Fiskars Oy Akt A"
+  },
+  {
+    "symbol": "FKST",
+    "name": "Flowerkist Skin Care & Cosmetics Inc"
+  },
+  {
+    "symbol": "FKYS",
+    "name": "First Keystone Corp"
+  },
+  {
+    "symbol": "FLCX",
+    "name": "Flooidcx Corp"
+  },
+  {
+    "symbol": "FLES",
+    "name": "Auto Parts 4Less Group Inc"
+  },
+  {
+    "symbol": "FLESD",
+    "name": "Auto Parts 4Less Group Inc"
+  },
+  {
+    "symbol": "FLEW",
+    "name": "Fleetwood Bank Corp"
+  },
+  {
+    "symbol": "FLFG",
+    "name": "Federal Life Group Inc"
+  },
+  {
+    "symbol": "FLGMF",
+    "name": "Flagship Communities Real Estate Investment Trus"
+  },
+  {
+    "symbol": "FLGZY",
+    "name": "Flughafen Zuerich Uns/Adr"
+  },
+  {
+    "symbol": "FLHLF",
+    "name": "Filament Health Corp"
+  },
+  {
+    "symbol": "FLIDY",
+    "name": "Flsmidth & Co. A/S"
+  },
+  {
+    "symbol": "FLLLD",
+    "name": "Ultra Brands Ltd"
+  },
+  {
+    "symbol": "FLLLF",
+    "name": "Ultra Brands Ltd"
+  },
+  {
+    "symbol": "FLMMF",
+    "name": "Filo Mining Corp"
+  },
+  {
+    "symbol": "FLMNF",
+    "name": "Fielmann Ag"
+  },
+  {
+    "symbol": "FLMNY",
+    "name": "Fielmann Ag"
+  },
+  {
+    "symbol": "FLMTF",
+    "name": "Full Metal Minerals Ltd"
+  },
+  {
+    "symbol": "FLNCF",
+    "name": "Freelancer Ltd"
+  },
+  {
+    "symbol": "FLOD",
+    "name": "Flowery Gold Mines Co. of Nevada"
+  },
+  {
+    "symbol": "FLOOF",
+    "name": "Flower One Holdings Inc"
+  },
+  {
+    "symbol": "FLRAF",
+    "name": "Essentra Plc"
+  },
+  {
+    "symbol": "FLRAP",
+    "name": "Fluor Corp"
+  },
+  {
+    "symbol": "FLRE",
+    "name": "Flameret Inc"
+  },
+  {
+    "symbol": "FLTDF",
+    "name": "Flow Traders Cooperatief U A"
+  },
+  {
+    "symbol": "FLUIF",
+    "name": "Fluidra Sa"
+  },
+  {
+    "symbol": "FLURF",
+    "name": "Flurotech"
+  },
+  {
+    "symbol": "FLWBF",
+    "name": "Flow Beverage Corp"
+  },
+  {
+    "symbol": "FLWPF",
+    "name": "The Flowr"
+  },
+  {
+    "symbol": "FLXI",
+    "name": "Flexiinternational Software Inc"
+  },
+  {
+    "symbol": "FLXQF",
+    "name": "Flexqube Ab"
+  },
+  {
+    "symbol": "FLXT",
+    "name": "Flexpoint Sensor Sys"
+  },
+  {
+    "symbol": "FLYLF",
+    "name": "Flyht Aerospace Solutions Ltd"
+  },
+  {
+    "symbol": "FLYNF",
+    "name": "Flying Nickel Mining Corp"
+  },
+  {
+    "symbol": "FMANF",
+    "name": "Freeman Gold Corp"
+  },
+  {
+    "symbol": "FMBL",
+    "name": "Farmers & Merch Bk"
+  },
+  {
+    "symbol": "FMBM",
+    "name": "F&M Bank Corp"
+  },
+  {
+    "symbol": "FMBN",
+    "name": "Farmers & Merchants Bancshares Inc"
+  },
+  {
+    "symbol": "FMBV",
+    "name": "Full Motion Beverage"
+  },
+  {
+    "symbol": "FMCB",
+    "name": "Farmers & Merch Bcp"
+  },
+  {
+    "symbol": "FMCC",
+    "name": "Freddie Mac"
+  },
+  {
+    "symbol": "FMCCG",
+    "name": "Freddie Mac Var Pfd"
+  },
+  {
+    "symbol": "FMCCH",
+    "name": "Freddie Mac 5.10 Pfd"
+  },
+  {
+    "symbol": "FMCCI",
+    "name": "Freddie Mac Var Pr B"
+  },
+  {
+    "symbol": "FMCCJ",
+    "name": "Freddie Mac Pfd Q"
+  },
+  {
+    "symbol": "FMCCK",
+    "name": "Freddie Mac 5.79"
+  },
+  {
+    "symbol": "FMCCL",
+    "name": "Freddie Mac Var RTS"
+  },
+  {
+    "symbol": "FMCCM",
+    "name": "Freddie Mac Noncum"
+  },
+  {
+    "symbol": "FMCCN",
+    "name": "Freddie Mac Var N"
+  },
+  {
+    "symbol": "FMCCO",
+    "name": "Freddie Mac 5.81 O"
+  },
+  {
+    "symbol": "FMCCP",
+    "name": "Freddie Mac Pfd P"
+  },
+  {
+    "symbol": "FMCCS",
+    "name": "Fed Homeln Pfd"
+  },
+  {
+    "symbol": "FMCCT",
+    "name": "Federal Home Loan Mortgage Corp"
+  },
+  {
+    "symbol": "FMCKI",
+    "name": "Federal Home Loan Mortgage Corp"
+  },
+  {
+    "symbol": "FMCKJ",
+    "name": "Freddie Mac Pfd Z"
+  },
+  {
+    "symbol": "FMCKK",
+    "name": "Fed Home Ln Mtg 5.0"
+  },
+  {
+    "symbol": "FMCKL",
+    "name": "Freddie Mac 6.02 Pfd"
+  },
+  {
+    "symbol": "FMCKM",
+    "name": "Federal Home Ln Mtg"
+  },
+  {
+    "symbol": "FMCKN",
+    "name": "Federal Home Ln Mtg"
+  },
+  {
+    "symbol": "FMCKO",
+    "name": "Fed Home Ln Mtg"
+  },
+  {
+    "symbol": "FMCKP",
+    "name": "Freddie Mac 5.7 Pfd"
+  },
+  {
+    "symbol": "FMCQF",
+    "name": "Fresenius Med Care A"
+  },
+  {
+    "symbol": "FMCXF",
+    "name": "Foran Mining Corp"
+  },
+  {
+    "symbol": "FMEGF",
+    "name": "Farmer's Edge Inc"
+  },
+  {
+    "symbol": "FMFG",
+    "name": "Farmers & Merchants Bank [Md]"
+  },
+  {
+    "symbol": "FMHS",
+    "name": "Farmhouse Inc"
+  },
+  {
+    "symbol": "FMNJ",
+    "name": "Franklin Mining Inc"
+  },
+  {
+    "symbol": "FMOCY",
+    "name": "Fomento DE Construcciones Y Contratas Sa"
+  },
+  {
+    "symbol": "FMPR",
+    "name": "Fame Productions Inc"
+  },
+  {
+    "symbol": "FMXUF",
+    "name": "Femsa Fomento Econ M"
+  },
+  {
+    "symbol": "FNBT",
+    "name": "Finemark Holdings Inc"
+  },
+  {
+    "symbol": "FNCDY",
+    "name": "Covivio ADR"
+  },
+  {
+    "symbol": "FNCJF",
+    "name": "Fancamp Exploration"
+  },
+  {
+    "symbol": "FNCSF",
+    "name": "North American Financial 15 Split Corp"
+  },
+  {
+    "symbol": "FNCTF",
+    "name": "France Telecom S.A."
+  },
+  {
+    "symbol": "FNEC",
+    "name": "First National Energy Crp"
+  },
+  {
+    "symbol": "FNEVF",
+    "name": "Fraser & Neave Ltd"
+  },
+  {
+    "symbol": "FNFI",
+    "name": "First Niles Finl"
+  },
+  {
+    "symbol": "FNICF",
+    "name": "Fathom Nickel Inc"
+  },
+  {
+    "symbol": "FNINF",
+    "name": "49 North Res Inc"
+  },
+  {
+    "symbol": "FNLIF",
+    "name": "First Natl Finl Corp"
+  },
+  {
+    "symbol": "FNLPF",
+    "name": "Fresnillo Plc"
+  },
+  {
+    "symbol": "FNMA",
+    "name": "Fannie Mae"
+  },
+  {
+    "symbol": "FNMAG",
+    "name": "Fannie Mae 5.375 I"
+  },
+  {
+    "symbol": "FNMAH",
+    "name": "Federal Natl Mtg Pfd"
+  },
+  {
+    "symbol": "FNMAI",
+    "name": "Fed Ntl Mtg Ser Q"
+  },
+  {
+    "symbol": "FNMAJ",
+    "name": "Fannie Mae Pfd R"
+  },
+  {
+    "symbol": "FNMAK",
+    "name": "Federal Natl Pfd N"
+  },
+  {
+    "symbol": "FNMAL",
+    "name": "Fed Natl Mtg Pfd M"
+  },
+  {
+    "symbol": "FNMAM",
+    "name": "Fannie Mae 5.81 H"
+  },
+  {
+    "symbol": "FNMAN",
+    "name": "Federal National Mortgage Association"
+  },
+  {
+    "symbol": "FNMAO",
+    "name": "Fannie Mae Noncum G"
+  },
+  {
+    "symbol": "FNMAP",
+    "name": "Fannie Mae Pfd F"
+  },
+  {
+    "symbol": "FNMAS",
+    "name": "Fannie Mae Pfd S"
+  },
+  {
+    "symbol": "FNMAT",
+    "name": "Federal Natl Pfd T"
+  },
+  {
+    "symbol": "FNMFM",
+    "name": "Fed Natl Mtg Pfd E"
+  },
+  {
+    "symbol": "FNMFN",
+    "name": "Federal National Mortgage Association"
+  },
+  {
+    "symbol": "FNMFO",
+    "name": "Fed Natl Mtg Pfd I"
+  },
+  {
+    "symbol": "FNNCF",
+    "name": "Financial 15 Split Corp"
+  },
+  {
+    "symbol": "FNNNF",
+    "name": "Finnair Oyj"
+  },
+  {
+    "symbol": "FNNZF",
+    "name": "Fincanna Capital Corp"
+  },
+  {
+    "symbol": "FNRC",
+    "name": "1st NRG Corp"
+  },
+  {
+    "symbol": "FNRN",
+    "name": "First Northern Comm Banc"
+  },
+  {
+    "symbol": "FNTTF",
+    "name": "Xr Immersive Tech Inc"
+  },
+  {
+    "symbol": "FNXTF",
+    "name": "Fenix Outdoor Intl Ltd"
+  },
+  {
+    "symbol": "FOBIF",
+    "name": "Fobi Ai Inc"
+  },
+  {
+    "symbol": "FOJCF",
+    "name": "Fortum Oyj"
+  },
+  {
+    "symbol": "FOJCY",
+    "name": "Fortum Oyj"
+  },
+  {
+    "symbol": "FOLGF",
+    "name": "Falcon Oil & Gas Ltd"
+  },
+  {
+    "symbol": "FOMC",
+    "name": "Fomo Corp"
+  },
+  {
+    "symbol": "FONU",
+    "name": "Fonu2 Inc"
+  },
+  {
+    "symbol": "FORFF",
+    "name": "Fortis Inc 4.90% Prf Perpetual CAD 25 Ser F"
+  },
+  {
+    "symbol": "FORU",
+    "name": "Foru Holdings Inc"
+  },
+  {
+    "symbol": "FORW",
+    "name": "Forwardly Inc"
+  },
+  {
+    "symbol": "FORZ",
+    "name": "Forza Innovations Inc"
+  },
+  {
+    "symbol": "FOSUF",
+    "name": "Fosun Intl Ltd"
+  },
+  {
+    "symbol": "FOSUY",
+    "name": "Fosun International Ltd"
+  },
+  {
+    "symbol": "FOSYF",
+    "name": "Forsys Metals Corp"
+  },
+  {
+    "symbol": "FOTB",
+    "name": "First Ottawa Bcsh DE"
+  },
+  {
+    "symbol": "FPAFF",
+    "name": "First Pacific CO Ord"
+  },
+  {
+    "symbol": "FPAFY",
+    "name": "First Pacific Ltd ADR"
+  },
+  {
+    "symbol": "FPLSF",
+    "name": "5N Plus Inc"
+  },
+  {
+    "symbol": "FPMI",
+    "name": "Fluoropharma Medical Inc"
+  },
+  {
+    "symbol": "FPNUF",
+    "name": "Fp Newspapers Inc"
+  },
+  {
+    "symbol": "FPOCF",
+    "name": "First Point Minerals"
+  },
+  {
+    "symbol": "FPPP",
+    "name": "Fieldpoint Petroleum Corp"
+  },
+  {
+    "symbol": "FPRGF",
+    "name": "Falco Pac Resource"
+  },
+  {
+    "symbol": "FPRUF",
+    "name": "Fraport Ag"
+  },
+  {
+    "symbol": "FPRUY",
+    "name": "Fraport Ag Frankfurt Airport Services Worldwide"
+  },
+  {
+    "symbol": "FPWM",
+    "name": "1st Prestige Wealth"
+  },
+  {
+    "symbol": "FQVLF",
+    "name": "First Quantum Minerals Ltd"
+  },
+  {
+    "symbol": "FQVTF",
+    "name": "Fevertree Drinks Plc"
+  },
+  {
+    "symbol": "FRACF",
+    "name": "Foraco Intl Marseil"
+  },
+  {
+    "symbol": "FRCEF",
+    "name": "Fletcher Building Ltd"
+  },
+  {
+    "symbol": "FRCOF",
+    "name": "Fast Retailing Ltd"
+  },
+  {
+    "symbol": "FRCOY",
+    "name": "Fast Retailing Ltd ADR"
+  },
+  {
+    "symbol": "FREGP",
+    "name": "Fed Hom Ln Mtg Cp 5"
+  },
+  {
+    "symbol": "FREJN",
+    "name": "Federal Home Loan Mortgage Corp"
+  },
+  {
+    "symbol": "FREJO",
+    "name": "Fed Home Ln Pfd"
+  },
+  {
+    "symbol": "FREJP",
+    "name": "Federal Home 5.30%"
+  },
+  {
+    "symbol": "FRERD",
+    "name": "Fremont Gold Ltd"
+  },
+  {
+    "symbol": "FREVS",
+    "name": "First Rl-Est Invt TR NJ Inc"
+  },
+  {
+    "symbol": "FRFFF",
+    "name": "Fairfax Financial Holdings Ltd Cum 5 Yr Rate Res"
+  },
+  {
+    "symbol": "FRFGF",
+    "name": "Fairfax Financial Holdings Ltd"
+  },
+  {
+    "symbol": "FRFHF",
+    "name": "Fairfax Finl Hld Sub"
+  },
+  {
+    "symbol": "FRFR",
+    "name": "Fritzy Tech Inc"
+  },
+  {
+    "symbol": "FRFRD",
+    "name": "Fritzy Tech Inc"
+  },
+  {
+    "symbol": "FRHHF",
+    "name": "Foras Hld Ser B Dkk100"
+  },
+  {
+    "symbol": "FRHLF",
+    "name": "Freehold Royalty"
+  },
+  {
+    "symbol": "FRLOF",
+    "name": "Frasers Logistics & Commercial Trust"
+  },
+  {
+    "symbol": "FRMA",
+    "name": "Firma Holdings Corp"
+  },
+  {
+    "symbol": "FRMO",
+    "name": "Frmo Corp"
+  },
+  {
+    "symbol": "FRMUF",
+    "name": "Firm Capital Property Trust"
+  },
+  {
+    "symbol": "FRNWF",
+    "name": "Future Plc"
+  },
+  {
+    "symbol": "FRPAF",
+    "name": "Franklin Liberty Shares Icav"
+  },
+  {
+    "symbol": "FRPRF",
+    "name": "4D Pharma Plc."
+  },
+  {
+    "symbol": "FRRPF",
+    "name": "Fiera Capital Corp"
+  },
+  {
+    "symbol": "FRRSF",
+    "name": "Foremost Lithium Res & Tech Ltd"
+  },
+  {
+    "symbol": "FRRVF",
+    "name": "Ferrovial S.A."
+  },
+  {
+    "symbol": "FRRVY",
+    "name": "Ferrovial Sa ADR"
+  },
+  {
+    "symbol": "FRSB",
+    "name": "First Resource Bancorp Inc"
+  },
+  {
+    "symbol": "FRTAY",
+    "name": "Freenet Ag"
+  },
+  {
+    "symbol": "FRTG",
+    "name": "Frontera Group Inc"
+  },
+  {
+    "symbol": "FRTM",
+    "name": "Fortium Hldgs Corp"
+  },
+  {
+    "symbol": "FRTN",
+    "name": "Fortran Corp"
+  },
+  {
+    "symbol": "FRVWY",
+    "name": "Friedrich Vorwerk Group Se"
+  },
+  {
+    "symbol": "FRZT",
+    "name": "Freeze Tag Inc"
+  },
+  {
+    "symbol": "FSBH",
+    "name": "First Southern Bank [Ga]"
+  },
+  {
+    "symbol": "FSCR",
+    "name": "Federal Screw Work"
+  },
+  {
+    "symbol": "FSEI",
+    "name": "First Seismic Corp"
+  },
+  {
+    "symbol": "FSEN",
+    "name": "FS Energy & Power Fund"
+  },
+  {
+    "symbol": "FSGB",
+    "name": "First Federal of South Carolina Federal Savings"
+  },
+  {
+    "symbol": "FSHRF",
+    "name": "Feishang Anthracite"
+  },
+  {
+    "symbol": "FSMK",
+    "name": "1st Summit Bancorp Johnstown Inc"
+  },
+  {
+    "symbol": "FSNUF",
+    "name": "Fresenius Se & CO Kgaa"
+  },
+  {
+    "symbol": "FSNUY",
+    "name": "Fresenius Se & CO Kg ADR"
+  },
+  {
+    "symbol": "FSOYF",
+    "name": "F-Secure Oyj"
+  },
+  {
+    "symbol": "FSPKF",
+    "name": "Fisher & Paykel Hlth"
+  },
+  {
+    "symbol": "FSPM",
+    "name": "Fusion Pharm Inc"
+  },
+  {
+    "symbol": "FSRL",
+    "name": "First Reliance Bk SC"
+  },
+  {
+    "symbol": "FSSN",
+    "name": "Fision Corp"
+  },
+  {
+    "symbol": "FSTF",
+    "name": "First State Fincl Corp"
+  },
+  {
+    "symbol": "FSTGF",
+    "name": "First Trust Global Funds Plc"
+  },
+  {
+    "symbol": "FSTJ",
+    "name": "First America Res Corp"
+  },
+  {
+    "symbol": "FSUGY",
+    "name": "Fortescue Metal ADR"
+  },
+  {
+    "symbol": "FSUMF",
+    "name": "Fortescue Metal Grp"
+  },
+  {
+    "symbol": "FSVEF",
+    "name": "Firestone Ventures Inc"
+  },
+  {
+    "symbol": "FSWA",
+    "name": "First Sound Bk [Wa]"
+  },
+  {
+    "symbol": "FSXLF",
+    "name": "Fosterville South Expl Ltd"
+  },
+  {
+    "symbol": "FTBYF",
+    "name": "Fortune Bay Corp"
+  },
+  {
+    "symbol": "FTCGF",
+    "name": "FT Global Funds Plc"
+  },
+  {
+    "symbol": "FTCO",
+    "name": "Fortitude Gold Corp"
+  },
+  {
+    "symbol": "FTCPF",
+    "name": "FT Global Funds Plc"
+  },
+  {
+    "symbol": "FTDL",
+    "name": "Firstime Design Ltd"
+  },
+  {
+    "symbol": "FTEG",
+    "name": "For The Earth Corp"
+  },
+  {
+    "symbol": "FTGFF",
+    "name": "Firan Technology Group Corp"
+  },
+  {
+    "symbol": "FTGPF",
+    "name": "FT Global Funds Internet Uc"
+  },
+  {
+    "symbol": "FTLF",
+    "name": "Fitlife Brands Inc"
+  },
+  {
+    "symbol": "FTMDF",
+    "name": "Fortune Minerals Ltd"
+  },
+  {
+    "symbol": "FTMNF",
+    "name": "Fortress Minerals CO"
+  },
+  {
+    "symbol": "FTRS",
+    "name": "Futuris CO"
+  },
+  {
+    "symbol": "FTWS",
+    "name": "Flitways Technology Inc"
+  },
+  {
+    "symbol": "FTXP",
+    "name": "Foothills Exploration Inc"
+  },
+  {
+    "symbol": "FUAPF",
+    "name": "Fundamental Applications"
+  },
+  {
+    "symbol": "FUBAF",
+    "name": "Futaba Corp"
+  },
+  {
+    "symbol": "FUCIF",
+    "name": "FT Global Funds Value Line Div Index"
+  },
+  {
+    "symbol": "FUIG",
+    "name": "Fusion Interactive Corp"
+  },
+  {
+    "symbol": "FUJHF",
+    "name": "Fuji Heavy Inds Ltd"
+  },
+  {
+    "symbol": "FUJHY",
+    "name": "Fuji Heavy Inds ADR"
+  },
+  {
+    "symbol": "FUJIF",
+    "name": "Fujifilm Holdings Cp"
+  },
+  {
+    "symbol": "FUJIY",
+    "name": "Fujifilm Hlds Corp"
+  },
+  {
+    "symbol": "FUJSF",
+    "name": "Fuji Seal Inc"
+  },
+  {
+    "symbol": "FULO",
+    "name": "Fullnet Communications Inc"
+  },
+  {
+    "symbol": "FUNFF",
+    "name": "Fansunite Entertainment Inc"
+  },
+  {
+    "symbol": "FUNN",
+    "name": "Amfil Technologies"
+  },
+  {
+    "symbol": "FUNTF",
+    "name": "Fountainhall Cap Corp"
+  },
+  {
+    "symbol": "FUPBY",
+    "name": "Fuchs Petrolub Se"
+  },
+  {
+    "symbol": "FUPEF",
+    "name": "Fuchs Petrolub Se"
+  },
+  {
+    "symbol": "FUPPF",
+    "name": "Fuchs Petrolub Se"
+  },
+  {
+    "symbol": "FURCF",
+    "name": "Faurecia Se"
+  },
+  {
+    "symbol": "FUSAF",
+    "name": "Fidelity Ucits Icav"
+  },
+  {
+    "symbol": "FUSEF",
+    "name": "Fuse Cobalt Inc"
+  },
+  {
+    "symbol": "FUTS",
+    "name": "Future Science Holdings Inc"
+  },
+  {
+    "symbol": "FUUN",
+    "name": "Futurenet Inc"
+  },
+  {
+    "symbol": "FUWAY",
+    "name": "Furukawa Elec Ltd Ad"
+  },
+  {
+    "symbol": "FVTI",
+    "name": "Fortune Valley Treasures Inc"
+  },
+  {
+    "symbol": "FVVSF",
+    "name": "Five Star Diamonds Ltd"
+  },
+  {
+    "symbol": "FWAV",
+    "name": "Fourth Wave Energy Inc"
+  },
+  {
+    "symbol": "FWEDF",
+    "name": "Fireweed Zinc Ltd"
+  },
+  {
+    "symbol": "FXBY",
+    "name": "Foxby Corp"
+  },
+  {
+    "symbol": "FXCNF",
+    "name": "Fih Mobile Ltd"
+  },
+  {
+    "symbol": "FXCNY",
+    "name": "Foxconn Intl Hld ADR"
+  },
+  {
+    "symbol": "FXFLF",
+    "name": "Fairfax Finl Hlds"
+  },
+  {
+    "symbol": "FXLG",
+    "name": "F S Bancorp Lagrange"
+  },
+  {
+    "symbol": "FYGGY",
+    "name": "Fuyao Glass Ind Group CO ADR"
+  },
+  {
+    "symbol": "FYIRF",
+    "name": "Fyi Resources Ltd"
+  },
+  {
+    "symbol": "FYMNF",
+    "name": "Finlay Minerals Ltd"
+  },
+  {
+    "symbol": "FZMD",
+    "name": "Fuse Medical Inc"
+  },
+  {
+    "symbol": "FZRO",
+    "name": "Flashzero Corp"
+  },
+  {
+    "symbol": "GABLF",
+    "name": "Gabriellas Kitchen Inc"
+  },
+  {
+    "symbol": "GACR",
+    "name": "Green Automotive CO"
+  },
+  {
+    "symbol": "GADS",
+    "name": "Gadsen Properties Inc"
+  },
+  {
+    "symbol": "GAERF",
+    "name": "Grupo Aeroportuario Del Centro Norte S.A.B. DE C"
+  },
+  {
+    "symbol": "GAHC",
+    "name": "Global Arena Hld"
+  },
+  {
+    "symbol": "GALKF",
+    "name": "Galantas Gold Cp"
+  },
+  {
+    "symbol": "GALOF",
+    "name": "Galore Res Inc"
+  },
+  {
+    "symbol": "GAMN",
+    "name": "Great Amer Food"
+  },
+  {
+    "symbol": "GARLF",
+    "name": "Axcap Ventures Inc"
+  },
+  {
+    "symbol": "GARPF",
+    "name": "Golden Agri-Resources Ltd"
+  },
+  {
+    "symbol": "GARPY",
+    "name": "Golden Agri-Res ADR"
+  },
+  {
+    "symbol": "GARWF",
+    "name": "Golden Arrow Resources Corp"
+  },
+  {
+    "symbol": "GASE",
+    "name": "Great East Energy"
+  },
+  {
+    "symbol": "GASNF",
+    "name": "Naturgy Energy Group Sa"
+  },
+  {
+    "symbol": "GASNY",
+    "name": "Gas Natural ADR"
+  },
+  {
+    "symbol": "GASXF",
+    "name": "Ng Energy Intl Corp"
+  },
+  {
+    "symbol": "GAWK",
+    "name": "Gawk Inc"
+  },
+  {
+    "symbol": "GAXY",
+    "name": "Galaxy Next Generation Inc"
+  },
+  {
+    "symbol": "GAYGF",
+    "name": "Galway Gold"
+  },
+  {
+    "symbol": "GAYMF",
+    "name": "Galway Metals"
+  },
+  {
+    "symbol": "GBARF",
+    "name": "Monarch Mining Corp"
+  },
+  {
+    "symbol": "GBAT",
+    "name": "Grayscale Basic Attention Token Trust [Bat]"
+  },
+  {
+    "symbol": "GBBFF",
+    "name": "Granada Gold Mine Inc"
+  },
+  {
+    "symbol": "GBBGF",
+    "name": "Global Li-Ion Graphite Corp"
+  },
+  {
+    "symbol": "GBBLF",
+    "name": "Provaris Energy Ltd"
+  },
+  {
+    "symbol": "GBBT",
+    "name": "Global Boatworks Holdings Inc"
+  },
+  {
+    "symbol": "GBCHF",
+    "name": "Metaverse Cap Corp"
+  },
+  {
+    "symbol": "GBCS",
+    "name": "Selectis Health Inc"
+  },
+  {
+    "symbol": "GBEI",
+    "name": "Great Basin Energies Inc"
+  },
+  {
+    "symbol": "GBERF",
+    "name": "Geberit Ag Jona"
+  },
+  {
+    "symbol": "GBERY",
+    "name": "Geberit Ag ADR"
+  },
+  {
+    "symbol": "GBFH",
+    "name": "Gbank Finl Hldgs"
+  },
+  {
+    "symbol": "GBGD",
+    "name": "Global Gold Corp"
+  },
+  {
+    "symbol": "GBHL",
+    "name": "Global Entmt Hld Inc"
+  },
+  {
+    "symbol": "GBHPF",
+    "name": "Global Hemp Grp"
+  },
+  {
+    "symbol": "GBIM",
+    "name": "Globeimmune Cm"
+  },
+  {
+    "symbol": "GBLBF",
+    "name": "Groupe Bruxelles"
+  },
+  {
+    "symbol": "GBLBY",
+    "name": "Groupe Bruxelles Lambert ADR"
+  },
+  {
+    "symbol": "GBLEF",
+    "name": "Global Energy Metals"
+  },
+  {
+    "symbol": "GBLP",
+    "name": "Global Pharmatech Inc"
+  },
+  {
+    "symbol": "GBLTF",
+    "name": "Gblt Corp"
+  },
+  {
+    "symbol": "GBLX",
+    "name": "Growblox Sciences Inc"
+  },
+  {
+    "symbol": "GBMIF",
+    "name": "Green Battery Minerals Inc"
+  },
+  {
+    "symbol": "GBMRF",
+    "name": "Gbm Resources Ltd"
+  },
+  {
+    "symbol": "GBNXF",
+    "name": "Gibson Energy"
+  },
+  {
+    "symbol": "GBOOF",
+    "name": "Grupo Fin Banorte Se"
+  },
+  {
+    "symbol": "GBOOY",
+    "name": "Grupo Financiero ADR"
+  },
+  {
+    "symbol": "GBRBF",
+    "name": "Great Bear Royalties Corp"
+  },
+  {
+    "symbol": "GBRCF",
+    "name": "Gold Bull Resources Corp"
+  },
+  {
+    "symbol": "GBRIF",
+    "name": "Golden Band Resources Inc"
+  },
+  {
+    "symbol": "GBRRF",
+    "name": "Gabriel Resources Ltd"
+  },
+  {
+    "symbol": "GBTC",
+    "name": "Bitcoin Invt TR"
+  },
+  {
+    "symbol": "GBUX",
+    "name": "Givbux Inc"
+  },
+  {
+    "symbol": "GBXI",
+    "name": "Gbx Intl Group Inc"
+  },
+  {
+    "symbol": "GCAN",
+    "name": "Greater Cannabis Company"
+  },
+  {
+    "symbol": "GCCFF",
+    "name": "Golden Cariboo Resources Ltd"
+  },
+  {
+    "symbol": "GCEA",
+    "name": "Griffin Realty Trust Inc"
+  },
+  {
+    "symbol": "GCEH",
+    "name": "Global Clean Energy"
+  },
+  {
+    "symbol": "GCEI",
+    "name": "Global Clean Energy Inc"
+  },
+  {
+    "symbol": "GCFB",
+    "name": "Granite City Food and Brewery Ltd"
+  },
+  {
+    "symbol": "GCFFF",
+    "name": "Goldcliff Resource Corp"
+  },
+  {
+    "symbol": "GCHK",
+    "name": "Greenchek Technology Inc"
+  },
+  {
+    "symbol": "GCHOY",
+    "name": "Grupo Nutresa Sa"
+  },
+  {
+    "symbol": "GCLMF",
+    "name": "Gcm Resources Plc"
+  },
+  {
+    "symbol": "GCLT",
+    "name": "Gainclients Inc"
+  },
+  {
+    "symbol": "GCPEF",
+    "name": "Gcl Technology Hldgs Ltd"
+  },
+  {
+    "symbol": "GCRIF",
+    "name": "Rogue Resources Inc"
+  },
+  {
+    "symbol": "GCTAF",
+    "name": "Gamesa Corp Tecn S.A."
+  },
+  {
+    "symbol": "GCTAY",
+    "name": "Gamesa Corporacion ADR"
+  },
+  {
+    "symbol": "GCWOF",
+    "name": "Grupo Cementos DE Chihuahua Sab DE Cv"
+  },
+  {
+    "symbol": "GCXXF",
+    "name": "Granite Creek Copper Ltd"
+  },
+  {
+    "symbol": "GDBYF",
+    "name": "Goodbody Health Inc"
+  },
+  {
+    "symbol": "GDDFF",
+    "name": "Goodfood Market"
+  },
+  {
+    "symbol": "GDET",
+    "name": "Gd Entertainment & Technology Inc"
+  },
+  {
+    "symbol": "GDIFF",
+    "name": "Gdi Integrated Facility Services Inc"
+  },
+  {
+    "symbol": "GDLC",
+    "name": "Grayscale Digital Large Cap Fund Llc"
+  },
+  {
+    "symbol": "GDLLF",
+    "name": "Geodrill Ltd Ord"
+  },
+  {
+    "symbol": "GDLNF",
+    "name": "Greenland Minerals"
+  },
+  {
+    "symbol": "GDMIF",
+    "name": "Goldstar Minerals Inc"
+  },
+  {
+    "symbol": "GDMK",
+    "name": "Global Diversified Marketing Group Inc"
+  },
+  {
+    "symbol": "GDMRF",
+    "name": "Golden Dawn Minerals"
+  },
+  {
+    "symbol": "GDNGY",
+    "name": "Pt Perusahaan Rokok Tjap Gudang Garam Tbk ADR"
+  },
+  {
+    "symbol": "GDNPF",
+    "name": "Good Natured Products Inc"
+  },
+  {
+    "symbol": "GDNSF",
+    "name": "Goodness Growth Hldgs Inc"
+  },
+  {
+    "symbol": "GDPHF",
+    "name": "Golden Pheasant Res Ltd"
+  },
+  {
+    "symbol": "GDQMF",
+    "name": "Goldquest Mining Corp"
+  },
+  {
+    "symbol": "GDRZF",
+    "name": "Gold Reserve Inc"
+  },
+  {
+    "symbol": "GDSI",
+    "name": "Global Digital Soltn"
+  },
+  {
+    "symbol": "GDSKF",
+    "name": "Goldspike Exploration Inc"
+  },
+  {
+    "symbol": "GDVM",
+    "name": "Global Develpmts"
+  },
+  {
+    "symbol": "GDXRF",
+    "name": "Goldex Resources Corp"
+  },
+  {
+    "symbol": "GEAGF",
+    "name": "Gea Group Ag"
+  },
+  {
+    "symbol": "GEAHF",
+    "name": "Great Eagle Hld H $"
+  },
+  {
+    "symbol": "GEBHF",
+    "name": "Genting Berhad"
+  },
+  {
+    "symbol": "GEBHY",
+    "name": "Genting Berhad Spons ADR"
+  },
+  {
+    "symbol": "GEBRF",
+    "name": "Greenbriar Capital Corp"
+  },
+  {
+    "symbol": "GECFF",
+    "name": "Gecina Act Nom"
+  },
+  {
+    "symbol": "GEDSF",
+    "name": "Chemical Wks of Richter Gedeon Plc"
+  },
+  {
+    "symbol": "GEGI",
+    "name": "Genesis Electronics"
+  },
+  {
+    "symbol": "GEGP",
+    "name": "Gold Entertainment Group Inc"
+  },
+  {
+    "symbol": "GEGR",
+    "name": "Gaensel Energy Group Inc"
+  },
+  {
+    "symbol": "GEGYF",
+    "name": "Genel Energy Plc"
+  },
+  {
+    "symbol": "GEGYY",
+    "name": "Genel Energy Plc"
+  },
+  {
+    "symbol": "GELEF",
+    "name": "Graphano Energy Ltd"
+  },
+  {
+    "symbol": "GELGF",
+    "name": "Chatham Rock Phosphate Ltd"
+  },
+  {
+    "symbol": "GELNF",
+    "name": "Gelion Plc"
+  },
+  {
+    "symbol": "GELYF",
+    "name": "Geely Automobile Hld"
+  },
+  {
+    "symbol": "GELYY",
+    "name": "Geely Auto Hlds ADR"
+  },
+  {
+    "symbol": "GEMZ",
+    "name": "Gemxx Corp"
+  },
+  {
+    "symbol": "GENGF",
+    "name": "Gear Energy"
+  },
+  {
+    "symbol": "GENH",
+    "name": "Generation Hemp Inc"
+  },
+  {
+    "symbol": "GENMF",
+    "name": "Generation Mining Ltd"
+  },
+  {
+    "symbol": "GENN",
+    "name": "Genesis Healthcare Inc"
+  },
+  {
+    "symbol": "GENSF",
+    "name": "Genus Plc"
+  },
+  {
+    "symbol": "GENTF",
+    "name": "G5 Entertainment Ab"
+  },
+  {
+    "symbol": "GEOUF",
+    "name": "Golden Energy Offshore Services As"
+  },
+  {
+    "symbol": "GERFF",
+    "name": "Glen Eagle Resources"
+  },
+  {
+    "symbol": "GERS",
+    "name": "Greenshift Corp"
+  },
+  {
+    "symbol": "GESI",
+    "name": "General European Strategic Invts Inc"
+  },
+  {
+    "symbol": "GETH",
+    "name": "Green Envirotech"
+  },
+  {
+    "symbol": "GETVF",
+    "name": "Mediaset Espana Communicacion S.A."
+  },
+  {
+    "symbol": "GEVI",
+    "name": "General Envirnmt MGT"
+  },
+  {
+    "symbol": "GFASY",
+    "name": "Gafisa S.A."
+  },
+  {
+    "symbol": "GFCOF",
+    "name": "Good Flour Corp"
+  },
+  {
+    "symbol": "GFELF",
+    "name": "Goodfellow Inc"
+  },
+  {
+    "symbol": "GFGSF",
+    "name": "Gfg Resources"
+  },
+  {
+    "symbol": "GFGY",
+    "name": "Granite Falls Energy Llc"
+  },
+  {
+    "symbol": "GFIOF",
+    "name": "Gold Fields Ltd"
+  },
+  {
+    "symbol": "GFKSY",
+    "name": "Gulf Keystone Petroleum Ltd ADR"
+  },
+  {
+    "symbol": "GFMH",
+    "name": "Goliath Film & Media Holdings"
+  },
+  {
+    "symbol": "GFOO",
+    "name": "Genufood Energy Enzymes Corp"
+  },
+  {
+    "symbol": "GFTRF",
+    "name": "Goldn Futures Minerals Corp"
+  },
+  {
+    "symbol": "GFTX",
+    "name": "Global Fiber Technologies Inc"
+  },
+  {
+    "symbol": "GGAMF",
+    "name": "Good Gamer Entertainment Inc"
+  },
+  {
+    "symbol": "GGAZF",
+    "name": "Goldgroup Mng Inc"
+  },
+  {
+    "symbol": "GGDVF",
+    "name": "Guangdong Investment"
+  },
+  {
+    "symbol": "GGDVY",
+    "name": "Guangdong Investment"
+  },
+  {
+    "symbol": "GGGOF",
+    "name": "Galane Gold Ltd"
+  },
+  {
+    "symbol": "GGGSF",
+    "name": "Greggs Plc."
+  },
+  {
+    "symbol": "GGIFF",
+    "name": "Garibaldi Res Corp"
+  },
+  {
+    "symbol": "GGII",
+    "name": "Green Globe Intl Inc"
+  },
+  {
+    "symbol": "GGISF",
+    "name": "Genesis Metals Corp"
+  },
+  {
+    "symbol": "GGLDF",
+    "name": "Getchell Gold Corp [Canada]"
+  },
+  {
+    "symbol": "GGLXF",
+    "name": "Ggl Resources Corp"
+  },
+  {
+    "symbol": "GGNDF",
+    "name": "Gn Store Nord A/S"
+  },
+  {
+    "symbol": "GGNNW",
+    "name": "Genocea Biosciences WT Cl A"
+  },
+  {
+    "symbol": "GGPXF",
+    "name": "G-Resources Group Ltd"
+  },
+  {
+    "symbol": "GGRN",
+    "name": "Global Green Solutns"
+  },
+  {
+    "symbol": "GGRND",
+    "name": "Arsenal Digital Hldgs Inc"
+  },
+  {
+    "symbol": "GGROU",
+    "name": "Golden Growers Coop"
+  },
+  {
+    "symbol": "GGSM",
+    "name": "Gold and Gemstone Mining Inc"
+  },
+  {
+    "symbol": "GGTHF",
+    "name": "Golden Goliath Res"
+  },
+  {
+    "symbol": "GGXXF",
+    "name": "Ggx Gold Corp"
+  },
+  {
+    "symbol": "GHAV",
+    "name": "Grand Havana Inc"
+  },
+  {
+    "symbol": "GHBWF",
+    "name": "Glass House Brands WT"
+  },
+  {
+    "symbol": "GHIFF",
+    "name": "Gamehost Income Fd"
+  },
+  {
+    "symbol": "GHMP",
+    "name": "Good Hemp Inc"
+  },
+  {
+    "symbol": "GHST",
+    "name": "Ghst World Inc"
+  },
+  {
+    "symbol": "GHVNF",
+    "name": "Goldhaven Resources Corp"
+  },
+  {
+    "symbol": "GHYCF",
+    "name": "Ishares Plc."
+  },
+  {
+    "symbol": "GIBX",
+    "name": "Gib Cap Group Inc"
+  },
+  {
+    "symbol": "GIDMF",
+    "name": "Golden Independence Mng Corp"
+  },
+  {
+    "symbol": "GIFLF",
+    "name": "Grifols Sa Barcelona"
+  },
+  {
+    "symbol": "GIFOF",
+    "name": "Grifols Sa Barcelona"
+  },
+  {
+    "symbol": "GIFX",
+    "name": "Gifa Inc"
+  },
+  {
+    "symbol": "GIGA",
+    "name": "Giga Tronics Inc"
+  },
+  {
+    "symbol": "GIGNF",
+    "name": "Genting Singapore Ltd"
+  },
+  {
+    "symbol": "GIGNY",
+    "name": "Genting Singapore Plc ADR"
+  },
+  {
+    "symbol": "GIKLY",
+    "name": "Grifols Sa ADR"
+  },
+  {
+    "symbol": "GIVSY",
+    "name": "Grupo DE Inversiones Suramericana S.A. ADR"
+  },
+  {
+    "symbol": "GJNSF",
+    "name": "Gjensidige Forsikring ASA"
+  },
+  {
+    "symbol": "GJNSY",
+    "name": "Gjensidige Forsikrin"
+  },
+  {
+    "symbol": "GJST",
+    "name": "Geo Js Technology Group Corp"
+  },
+  {
+    "symbol": "GKIN",
+    "name": "Guskin Gold Corp"
+  },
+  {
+    "symbol": "GKIT",
+    "name": "Greenkraft Inc"
+  },
+  {
+    "symbol": "GKPRF",
+    "name": "Gatekeeper Sys Inc"
+  },
+  {
+    "symbol": "GKSDF",
+    "name": "Grupo Kuo Sab DE Cv"
+  },
+  {
+    "symbol": "GLAE",
+    "name": "Glassbridge Enterprises Inc"
+  },
+  {
+    "symbol": "GLAPF",
+    "name": "Glanbia Plc Ord"
+  },
+  {
+    "symbol": "GLAPY",
+    "name": "Glanbia Plc [Ireland] ADR"
+  },
+  {
+    "symbol": "GLASF",
+    "name": "Glass House Brands Inc"
+  },
+  {
+    "symbol": "GLATF",
+    "name": "Global Atomic Corp"
+  },
+  {
+    "symbol": "GLAXF",
+    "name": "Glaxosmithkline Plc"
+  },
+  {
+    "symbol": "GLBR",
+    "name": "Global Brokerage Inc"
+  },
+  {
+    "symbol": "GLBXF",
+    "name": "Globex Mining Enterprises Inc"
+  },
+  {
+    "symbol": "GLCNF",
+    "name": "Glencore Internation"
+  },
+  {
+    "symbol": "GLCO",
+    "name": "Global Links Cp"
+  },
+  {
+    "symbol": "GLDRF",
+    "name": "Idaho Champion Gold Mines"
+  },
+  {
+    "symbol": "GLEC",
+    "name": "Global Ecology Corp"
+  },
+  {
+    "symbol": "GLFH",
+    "name": "Galenfeha"
+  },
+  {
+    "symbol": "GLGDF",
+    "name": "Gogold Res Inc"
+  },
+  {
+    "symbol": "GLGI",
+    "name": "Greystone Logistics"
+  },
+  {
+    "symbol": "GLGLF",
+    "name": "Glg Life Tech Corp"
+  },
+  {
+    "symbol": "GLIIF",
+    "name": "Glacier Lake Resources"
+  },
+  {
+    "symbol": "GLIOF",
+    "name": "Gold Lion Resources"
+  },
+  {
+    "symbol": "GLIV",
+    "name": "Grayscale Livepeer Trust [Lpt]"
+  },
+  {
+    "symbol": "GLMFF",
+    "name": "Glacier Media Inc"
+  },
+  {
+    "symbol": "GLNCY",
+    "name": "Glencore International Plc ADR"
+  },
+  {
+    "symbol": "GLNK",
+    "name": "Grayscale Chainlink Trust [Link]"
+  },
+  {
+    "symbol": "GLNS",
+    "name": "Golden Star Resource Corp"
+  },
+  {
+    "symbol": "GLOH",
+    "name": "Glow Holdings Inc"
+  },
+  {
+    "symbol": "GLPEF",
+    "name": "Galp Energia"
+  },
+  {
+    "symbol": "GLPEY",
+    "name": "Galp Energia ADR"
+  },
+  {
+    "symbol": "GLPGF",
+    "name": "Galapagos Genomics Ord"
+  },
+  {
+    "symbol": "GLPT",
+    "name": "Global Profit Technologies Inc"
+  },
+  {
+    "symbol": "GLUC",
+    "name": "Glucose Health Inc"
+  },
+  {
+    "symbol": "GLVHF",
+    "name": "Glenveagh Properties Plc"
+  },
+  {
+    "symbol": "GLXZ",
+    "name": "Galaxy Gaming Inc"
+  },
+  {
+    "symbol": "GLYE",
+    "name": "Glyeco Inc"
+  },
+  {
+    "symbol": "GMALF",
+    "name": "Genting Malaysia Berhad"
+  },
+  {
+    "symbol": "GMALY",
+    "name": "Genting Malaysia Berhad"
+  },
+  {
+    "symbol": "GMBXF",
+    "name": "Grupo Mexico Sa B Sh"
+  },
+  {
+    "symbol": "GMDMF",
+    "name": "Gem Diamonds Ltd Ord"
+  },
+  {
+    "symbol": "GMELY",
+    "name": "Gome Retail Holdings Ltd"
+  },
+  {
+    "symbol": "GMER",
+    "name": "Good Gaming Inc"
+  },
+  {
+    "symbol": "GMETF",
+    "name": "Gameon Entertainment Technologies Inc"
+  },
+  {
+    "symbol": "GMEV",
+    "name": "Gme Innotainment Inc"
+  },
+  {
+    "symbol": "GMGMF",
+    "name": "Graphene MFG Group Ltd"
+  },
+  {
+    "symbol": "GMGSF",
+    "name": "Goodman Gp Sydney Stpld"
+  },
+  {
+    "symbol": "GMGT",
+    "name": "Gaming Technologies"
+  },
+  {
+    "symbol": "GMINF",
+    "name": "G Mining Ventures Corp"
+  },
+  {
+    "symbol": "GMLPF",
+    "name": "Golar Lng Partners LP"
+  },
+  {
+    "symbol": "GMNI",
+    "name": "Gemini Group Global Corp"
+  },
+  {
+    "symbol": "GMOYF",
+    "name": "GMO Internet Inc"
+  },
+  {
+    "symbol": "GMPR",
+    "name": "Gourmet Provisions Intl Corp"
+  },
+  {
+    "symbol": "GMPUF",
+    "name": "Gestamp Automocion S A"
+  },
+  {
+    "symbol": "GMPW",
+    "name": "Givemepower Corp"
+  },
+  {
+    "symbol": "GMPXF",
+    "name": "RF Capital Group Inc"
+  },
+  {
+    "symbol": "GMRCF",
+    "name": "Gelum Res Ltd"
+  },
+  {
+    "symbol": "GMSQF",
+    "name": "Gamesquare Esports Inc"
+  },
+  {
+    "symbol": "GMTNF",
+    "name": "Gold Mountain Mining Corp"
+  },
+  {
+    "symbol": "GMVHF",
+    "name": "Entain Plc"
+  },
+  {
+    "symbol": "GMVHY",
+    "name": "Gvc Holdings Plc"
+  },
+  {
+    "symbol": "GMVMF",
+    "name": "Gmv Minerals Inc"
+  },
+  {
+    "symbol": "GMWKF",
+    "name": "Games Workshop Grp O"
+  },
+  {
+    "symbol": "GMXTF",
+    "name": "Gmexico Transportes Sab DE Cv"
+  },
+  {
+    "symbol": "GMZP",
+    "name": "Gemz Corp"
+  },
+  {
+    "symbol": "GNAL",
+    "name": "Generation Alpha Inc"
+  },
+  {
+    "symbol": "GNBT",
+    "name": "Generex Biotechnology Corporatio"
+  },
+  {
+    "symbol": "GNCA",
+    "name": "Genocea Biosciences"
+  },
+  {
+    "symbol": "GNCGF",
+    "name": "Greencore Group Plc."
+  },
+  {
+    "symbol": "GNCLF",
+    "name": "Gencell Ltd"
+  },
+  {
+    "symbol": "GNCNF",
+    "name": "Gencan Cap Inc"
+  },
+  {
+    "symbol": "GNCP",
+    "name": "Gncc Capital Inc"
+  },
+  {
+    "symbol": "GNENF",
+    "name": "Ganfeng Lithium Ltd"
+  },
+  {
+    "symbol": "GNENY",
+    "name": "Ganfeng Lithium Ltd"
+  },
+  {
+    "symbol": "GNGBF",
+    "name": "Getinge Industrier Shs B"
+  },
+  {
+    "symbol": "GNGBY",
+    "name": "Getinge Ab ADR"
+  },
+  {
+    "symbol": "GNGR",
+    "name": "Gunther Grant Inc"
+  },
+  {
+    "symbol": "GNGXF",
+    "name": "Ginguro Expl Inc"
+  },
+  {
+    "symbol": "GNGYF",
+    "name": "Guangshen Railway Ltd"
+  },
+  {
+    "symbol": "GNHAY",
+    "name": "Vifor Pharma Ag"
+  },
+  {
+    "symbol": "GNLAF",
+    "name": "Genesis Land Development Corp"
+  },
+  {
+    "symbol": "GNMLF",
+    "name": "Genomma Lab International Sab DE Cv"
+  },
+  {
+    "symbol": "GNMSF",
+    "name": "Genmab A/S Dkk"
+  },
+  {
+    "symbol": "GNNDY",
+    "name": "Gn Store Nord ADR"
+  },
+  {
+    "symbol": "GNNSF",
+    "name": "Genscript Biotech Corp"
+  },
+  {
+    "symbol": "GNOLF",
+    "name": "Genoil Inc"
+  },
+  {
+    "symbol": "GNPG",
+    "name": "Green Planet Grp"
+  },
+  {
+    "symbol": "GNRS",
+    "name": "Greenrose Acquisition Corp"
+  },
+  {
+    "symbol": "GNRSU",
+    "name": "Greenrose Acquisition Corp"
+  },
+  {
+    "symbol": "GNRSW",
+    "name": "Greenrose Acquisition Corp WT"
+  },
+  {
+    "symbol": "GNRV",
+    "name": "Grand River Commerce"
+  },
+  {
+    "symbol": "GNTLF",
+    "name": "Genetic Technologies Ltd"
+  },
+  {
+    "symbol": "GNYPF",
+    "name": "Masivo Silver Corp"
+  },
+  {
+    "symbol": "GNZUF",
+    "name": "Guangzhou Automobile"
+  },
+  {
+    "symbol": "GOAI",
+    "name": "Eva Live Inc"
+  },
+  {
+    "symbol": "GOCOF",
+    "name": "Go Metals Corp"
+  },
+  {
+    "symbol": "GODYF",
+    "name": "First Tellurium Corp"
+  },
+  {
+    "symbol": "GODZF",
+    "name": "Goldhills Hldg Ltd"
+  },
+  {
+    "symbol": "GOFF",
+    "name": "Goff Corp"
+  },
+  {
+    "symbol": "GOFPY",
+    "name": "Greek Org Football"
+  },
+  {
+    "symbol": "GOGR",
+    "name": "Go Green Global Technologies Corp"
+  },
+  {
+    "symbol": "GOGY",
+    "name": "Golden Energy Corp"
+  },
+  {
+    "symbol": "GOLQ",
+    "name": "Gologiq Inc"
+  },
+  {
+    "symbol": "GOLXF",
+    "name": "Golden Lake Expl Inc"
+  },
+  {
+    "symbol": "GOMRF",
+    "name": "Geomega Res Inc"
+  },
+  {
+    "symbol": "GORAF",
+    "name": "Goldrea Resources Cp"
+  },
+  {
+    "symbol": "GORIF",
+    "name": "Golden Ridge Resources"
+  },
+  {
+    "symbol": "GORL",
+    "name": "Gordon [I.] Corp"
+  },
+  {
+    "symbol": "GOTRF",
+    "name": "Goliath Resources Ltd"
+  },
+  {
+    "symbol": "GOVB",
+    "name": "Gouverneur Bancorp"
+  },
+  {
+    "symbol": "GPAEF",
+    "name": "Grupo Aeroportuario Del Pacifico S.A.B DE C.V."
+  },
+  {
+    "symbol": "GPAGF",
+    "name": "Gruma Sab DE Cv"
+  },
+  {
+    "symbol": "GPDB",
+    "name": "Green Polkadot Box"
+  },
+  {
+    "symbol": "GPDNF",
+    "name": "Groupe Danone"
+  },
+  {
+    "symbol": "GPEAF",
+    "name": "Great Portland Estates"
+  },
+  {
+    "symbol": "GPFOF",
+    "name": "Grupo Fin Inbursa S.A."
+  },
+  {
+    "symbol": "GPFOY",
+    "name": "Grupo Financiero Inbursa S.A. DE C.V."
+  },
+  {
+    "symbol": "GPFT",
+    "name": "Grapefruit USA Inc"
+  },
+  {
+    "symbol": "GPGC",
+    "name": "Global Pole Trusion Group Corp"
+  },
+  {
+    "symbol": "GPHBF",
+    "name": "Graphene 3D Lab Inc"
+  },
+  {
+    "symbol": "GPHOF",
+    "name": "Graphite One Resources Inc"
+  },
+  {
+    "symbol": "GPIPF",
+    "name": "Wescan Energy Corp"
+  },
+  {
+    "symbol": "GPLB",
+    "name": "Green Planet Bioengineering Ltd"
+  },
+  {
+    "symbol": "GPLS",
+    "name": "Geopulse Exploration"
+  },
+  {
+    "symbol": "GPMTF",
+    "name": "Gpm Metals Inc"
+  },
+  {
+    "symbol": "GPOVF",
+    "name": "Grupo Carso S.A. DE Cv"
+  },
+  {
+    "symbol": "GPOVY",
+    "name": "Grupo Carso Sa DE Cv ADR"
+  },
+  {
+    "symbol": "GPOX",
+    "name": "Gpo Plus Inc"
+  },
+  {
+    "symbol": "GPPRF",
+    "name": "Cerro DE Pasco Resources Inc"
+  },
+  {
+    "symbol": "GPSI",
+    "name": "General Payment Systems Inc"
+  },
+  {
+    "symbol": "GPTGF",
+    "name": "Gpt Group"
+  },
+  {
+    "symbol": "GPTRF",
+    "name": "Grande Portage Resources Ltd"
+  },
+  {
+    "symbol": "GRAH",
+    "name": "Griffin-American Healthcare REIT III Inc"
+  },
+  {
+    "symbol": "GRAMF",
+    "name": "Tpco Hldg Corp"
+  },
+  {
+    "symbol": "GRBG",
+    "name": "Green Bridge Indus Inc"
+  },
+  {
+    "symbol": "GRBMF",
+    "name": "Grupo Bimbo S.A."
+  },
+  {
+    "symbol": "GRCAF",
+    "name": "Gold Springs Resource Corp"
+  },
+  {
+    "symbol": "GRCLF",
+    "name": "Graincorp Ltd Shs A"
+  },
+  {
+    "symbol": "GRCO",
+    "name": "Greenbelt Resources Corp"
+  },
+  {
+    "symbol": "GRCU",
+    "name": "Green Cures & Botanical Distribution Inc"
+  },
+  {
+    "symbol": "GRDZF",
+    "name": "Giordano International Ltd"
+  },
+  {
+    "symbol": "GRFXF",
+    "name": "Graphex Group Ltd"
+  },
+  {
+    "symbol": "GRFXY",
+    "name": "Graphex Group Ltd"
+  },
+  {
+    "symbol": "GRGSF",
+    "name": "Grieg Seafood ASA Ord"
+  },
+  {
+    "symbol": "GRGTF",
+    "name": "Grainger Plc"
+  },
+  {
+    "symbol": "GRGUF",
+    "name": "Grand Gulf Energy Ltd"
+  },
+  {
+    "symbol": "GRHI",
+    "name": "Gold Rock Holdings Inc"
+  },
+  {
+    "symbol": "GRKZF",
+    "name": "Greek Org of Footbal"
+  },
+  {
+    "symbol": "GRLF",
+    "name": "Green Leaf Innovations Inc"
+  },
+  {
+    "symbol": "GRLGF",
+    "name": "Greatland Gold Plc"
+  },
+  {
+    "symbol": "GRLRF",
+    "name": "Greenland Res Inc"
+  },
+  {
+    "symbol": "GRLT",
+    "name": "Grillit Inc"
+  },
+  {
+    "symbol": "GRLVF",
+    "name": "Group Eleven Resources"
+  },
+  {
+    "symbol": "GRMC",
+    "name": "Goldrich Mining CO"
+  },
+  {
+    "symbol": "GRMWF",
+    "name": "Tpco Hldg Corp WT"
+  },
+  {
+    "symbol": "GRNBF",
+    "name": "Greenbank Cap"
+  },
+  {
+    "symbol": "GRNF",
+    "name": "Grn Holding Corp"
+  },
+  {
+    "symbol": "GRNH",
+    "name": "Greengro Tech"
+  },
+  {
+    "symbol": "GRNL",
+    "name": "Greenlite Vntrs Inc"
+  },
+  {
+    "symbol": "GRNNF",
+    "name": "Grand City Properties Sa"
+  },
+  {
+    "symbol": "GRNTF",
+    "name": "Ipath Global Carbon ETN"
+  },
+  {
+    "symbol": "GRNWF",
+    "name": "Greenlane Renewables Inc"
+  },
+  {
+    "symbol": "GRODF",
+    "name": "Green Organic Dutchman Holdings Ltd WT"
+  },
+  {
+    "symbol": "GROUF",
+    "name": "Grafton Group Plc"
+  },
+  {
+    "symbol": "GRPFF",
+    "name": "Grupo Televisa Sa Cv"
+  },
+  {
+    "symbol": "GRPOF",
+    "name": "Grupo Traxion S A B DE C V"
+  },
+  {
+    "symbol": "GRPRF",
+    "name": "Grupo Rotoplas S A B"
+  },
+  {
+    "symbol": "GRPS",
+    "name": "Gold River Productions Inc"
+  },
+  {
+    "symbol": "GRRB",
+    "name": "Grandsouth Bancorp"
+  },
+  {
+    "symbol": "GRRBP",
+    "name": "Grandsouth Bancorp"
+  },
+  {
+    "symbol": "GRRLF",
+    "name": "Grange Resources Ltd"
+  },
+  {
+    "symbol": "GRRMF",
+    "name": "Gerresheimer Ag"
+  },
+  {
+    "symbol": "GRSLF",
+    "name": "Gr Silver Mining Ltd"
+  },
+  {
+    "symbol": "GRSO",
+    "name": "Grow Solutions Holdings Inc"
+  },
+  {
+    "symbol": "GRST",
+    "name": "Greenstone Healthcare Corp"
+  },
+  {
+    "symbol": "GRUSF",
+    "name": "Grown Rogue International Inc"
+  },
+  {
+    "symbol": "GRVE",
+    "name": "Groove Botanicals Inc"
+  },
+  {
+    "symbol": "GRVWF",
+    "name": "Greatview Aseptic"
+  },
+  {
+    "symbol": "GRWC",
+    "name": "Grow Capital Inc"
+  },
+  {
+    "symbol": "GRWXF",
+    "name": "Molten Ventures Plc"
+  },
+  {
+    "symbol": "GRXXF",
+    "name": "Oz Lithium Corp"
+  },
+  {
+    "symbol": "GRYCF",
+    "name": "Graycliff Exploration Ltd"
+  },
+  {
+    "symbol": "GRYG",
+    "name": "Green Energy Group Inc"
+  },
+  {
+    "symbol": "GRYN",
+    "name": "Green Hygienics Holdings Inc"
+  },
+  {
+    "symbol": "GRYRF",
+    "name": "Geo Energy Resources Ltd"
+  },
+  {
+    "symbol": "GSAC",
+    "name": "Gelstat Corp"
+  },
+  {
+    "symbol": "GSBX",
+    "name": "Golden State Bancorp"
+  },
+  {
+    "symbol": "GSCCF",
+    "name": "Global Geoscience Ltd"
+  },
+  {
+    "symbol": "GSCE",
+    "name": "GS Connect S&P GSCI Enh Commodity TR ETN"
+  },
+  {
+    "symbol": "GSDT",
+    "name": "Gsdt Fintech Group Inc"
+  },
+  {
+    "symbol": "GSFD",
+    "name": "Global Seafood Technologies Inc"
+  },
+  {
+    "symbol": "GSFI",
+    "name": "Green Stream Holdings Inc"
+  },
+  {
+    "symbol": "GSHN",
+    "name": "Greenstone Holdings Inc"
+  },
+  {
+    "symbol": "GSHRF",
+    "name": "Goldshore Resources"
+  },
+  {
+    "symbol": "GSIH",
+    "name": "General Steel Holdings Inc"
+  },
+  {
+    "symbol": "GSPE",
+    "name": "Gulfslope Energy"
+  },
+  {
+    "symbol": "GSPI",
+    "name": "Green Star Products"
+  },
+  {
+    "symbol": "GSPT",
+    "name": "Golden Star Enterprises Ltd"
+  },
+  {
+    "symbol": "GSRCF",
+    "name": "Gsp Resource Corp"
+  },
+  {
+    "symbol": "GSRX",
+    "name": "Gsrx Industries Inc"
+  },
+  {
+    "symbol": "GSSRF",
+    "name": "Gossan Resources Ltd Cda"
+  },
+  {
+    "symbol": "GSTC",
+    "name": "Globestar Therapeutics Corp"
+  },
+  {
+    "symbol": "GSTX",
+    "name": "Graphene & Solar Technologies Ltd"
+  },
+  {
+    "symbol": "GSVI",
+    "name": "Gsv Inc"
+  },
+  {
+    "symbol": "GSVRF",
+    "name": "Guanajuato Silver Ltd"
+  },
+  {
+    "symbol": "GTAGF",
+    "name": "Golden Tag Res Ltd"
+  },
+  {
+    "symbol": "GTBIF",
+    "name": "Green Thumb Industries Inc"
+  },
+  {
+    "symbol": "GTCDF",
+    "name": "Getty Copper Inc"
+  },
+  {
+    "symbol": "GTCH",
+    "name": "Gbt Technologies Inc"
+  },
+  {
+    "symbol": "GTECW",
+    "name": "Greenland Technologies Holding Corp WT"
+  },
+  {
+    "symbol": "GTEH",
+    "name": "Gentech Holdings Inc"
+  },
+  {
+    "symbol": "GTHKF",
+    "name": "Genting Hong Kong"
+  },
+  {
+    "symbol": "GTHP",
+    "name": "Guided Therapeutics"
+  },
+  {
+    "symbol": "GTHR",
+    "name": "Genethera Inc"
+  },
+  {
+    "symbol": "GTII",
+    "name": "Global Tech Industries Group Inc"
+  },
+  {
+    "symbol": "GTKP",
+    "name": "Gatekeeper USA Inc"
+  },
+  {
+    "symbol": "GTLL",
+    "name": "Global Techs Ltd"
+  },
+  {
+    "symbol": "GTMAY",
+    "name": "Grupo Tmm S.A. ADR"
+  },
+  {
+    "symbol": "GTMEF",
+    "name": "Globe Telecom Inc"
+  },
+  {
+    "symbol": "GTOR",
+    "name": "Ggtoor Inc"
+  },
+  {
+    "symbol": "GTPS",
+    "name": "Great American Bancorp Inc"
+  },
+  {
+    "symbol": "GTRIF",
+    "name": "Gti Energy Ltd"
+  },
+  {
+    "symbol": "GTRL",
+    "name": "Get Real USA"
+  },
+  {
+    "symbol": "GTSWF",
+    "name": "Getswift Technologies Ltd"
+  },
+  {
+    "symbol": "GTTNQ",
+    "name": "Gtt Communications Inc"
+  },
+  {
+    "symbol": "GTVH",
+    "name": "Golden Triangle Ventures Inc"
+  },
+  {
+    "symbol": "GTVI",
+    "name": "Joway Health Industries"
+  },
+  {
+    "symbol": "GTXO",
+    "name": "GTX Corp"
+  },
+  {
+    "symbol": "GTYHW",
+    "name": "Gty Technology Holdings WT"
+  },
+  {
+    "symbol": "GUDHF",
+    "name": "Gud Holdings Ltd"
+  },
+  {
+    "symbol": "GUESF",
+    "name": "Guestlogix Inc"
+  },
+  {
+    "symbol": "GUKYF",
+    "name": "Gulf Keystone Petro"
+  },
+  {
+    "symbol": "GULDF",
+    "name": "Guild Esports Plc"
+  },
+  {
+    "symbol": "GULTU",
+    "name": "Gulf Coast Ultra"
+  },
+  {
+    "symbol": "GUROF",
+    "name": "Guru Organic Energy CO"
+  },
+  {
+    "symbol": "GUYGF",
+    "name": "G2 Goldfields Inc"
+  },
+  {
+    "symbol": "GUZOF",
+    "name": "Grupo Herdez Sab DE Cv"
+  },
+  {
+    "symbol": "GVDBF",
+    "name": "Givaudan Ag Duebendo"
+  },
+  {
+    "symbol": "GVDNY",
+    "name": "Givaudan Sa ADR"
+  },
+  {
+    "symbol": "GVFF",
+    "name": "Greenville Fed Fin"
+  },
+  {
+    "symbol": "GVLMF",
+    "name": "Greenvale Mining Limited"
+  },
+  {
+    "symbol": "GVSI",
+    "name": "Good Vibrations Shoes Inc"
+  },
+  {
+    "symbol": "GVXXF",
+    "name": "Goviex Uranium Inc"
+  },
+  {
+    "symbol": "GWAV",
+    "name": "Greenwave Technology Solutions Inc"
+  },
+  {
+    "symbol": "GWBK",
+    "name": "Gateway Bank F S B Oakland Calif"
+  },
+  {
+    "symbol": "GWGHQ",
+    "name": "Gwg Holdings"
+  },
+  {
+    "symbol": "GWHP",
+    "name": "Global Wholehealth Partners Corp"
+  },
+  {
+    "symbol": "GWIN",
+    "name": "Glorywin Entertainment Group Inc"
+  },
+  {
+    "symbol": "GWLIF",
+    "name": "Great West Lifeco IN"
+  },
+  {
+    "symbol": "GWLLF",
+    "name": "Great Wall Motor Company Ltd"
+  },
+  {
+    "symbol": "GWLLY",
+    "name": "Great Wall Motor"
+  },
+  {
+    "symbol": "GWRRF",
+    "name": "Engold Mines Ltd"
+  },
+  {
+    "symbol": "GWSFF",
+    "name": "Global Wellness Strategies Inc"
+  },
+  {
+    "symbol": "GWSO",
+    "name": "Global Warming Solutions Inc"
+  },
+  {
+    "symbol": "GWTI",
+    "name": "Greenway Technologies Inc"
+  },
+  {
+    "symbol": "GWTR",
+    "name": "Global Water Techs"
+  },
+  {
+    "symbol": "GWYGU",
+    "name": "Gateway Garage Partners Llc Ltd"
+  },
+  {
+    "symbol": "GXLM",
+    "name": "Grayscale Stellar Lumens Trust"
+  },
+  {
+    "symbol": "GXRFF",
+    "name": "Prospera Energy Inc"
+  },
+  {
+    "symbol": "GXSFF",
+    "name": "Goldsource Mines Inc"
+  },
+  {
+    "symbol": "GXUSF",
+    "name": "Guardian Exploration Inc"
+  },
+  {
+    "symbol": "GXXFF",
+    "name": "Gold Basin Resources Corp"
+  },
+  {
+    "symbol": "GXXM",
+    "name": "Gex Management Inc"
+  },
+  {
+    "symbol": "GXXY",
+    "name": "Galexxy Hldgs Inc"
+  },
+  {
+    "symbol": "GXYEF",
+    "name": "Galaxy Entertainment"
+  },
+  {
+    "symbol": "GXYYY",
+    "name": "Galaxy Entertainment Group Ltd ADR"
+  },
+  {
+    "symbol": "GYGC",
+    "name": "Guyana Gold Corp"
+  },
+  {
+    "symbol": "GYPHQ",
+    "name": "Gryphon Gold Corp"
+  },
+  {
+    "symbol": "GYSLF",
+    "name": "Greystar Res Ltd"
+  },
+  {
+    "symbol": "GYSN",
+    "name": "Greyson Intl Inc"
+  },
+  {
+    "symbol": "GYST",
+    "name": "The Graystone Company"
+  },
+  {
+    "symbol": "GYUAF",
+    "name": "GS Yuasa Corp"
+  },
+  {
+    "symbol": "GYYMF",
+    "name": "Gym Group Plc."
+  },
+  {
+    "symbol": "GZDIF",
+    "name": "Grizzly Discoveries"
+  },
+  {
+    "symbol": "GZIC",
+    "name": "Gz6G Technologies Corp"
+  },
+  {
+    "symbol": "GZPZY",
+    "name": "Gaztransport & Tecnigaz"
+  },
+  {
+    "symbol": "GZTGF",
+    "name": "G City Ltd"
+  },
+  {
+    "symbol": "GZUHF",
+    "name": "Guangzhou R&F Properties Co. Ltd"
+  },
+  {
+    "symbol": "HACBF",
+    "name": "Hachijuni Bank Ltd"
+  },
+  {
+    "symbol": "HACBY",
+    "name": "Hachijuni Bank Ltd S"
+  },
+  {
+    "symbol": "HADV",
+    "name": "Health Advance Inc"
+  },
+  {
+    "symbol": "HAFG",
+    "name": "Holistic Asset Finance Group"
+  },
+  {
+    "symbol": "HAGHY",
+    "name": "Hensoldt Ag"
+  },
+  {
+    "symbol": "HAIPF",
+    "name": "Infinya Ltd"
+  },
+  {
+    "symbol": "HAIVF",
+    "name": "Haivision Sys Inc ."
+  },
+  {
+    "symbol": "HALB",
+    "name": "Halberd Corp"
+  },
+  {
+    "symbol": "HALFF",
+    "name": "Hal Trust Bearer Shs B"
+  },
+  {
+    "symbol": "HALMY",
+    "name": "Halma Plc ADR"
+  },
+  {
+    "symbol": "HAMRF",
+    "name": "Silver Hammer Mining Corp"
+  },
+  {
+    "symbol": "HANCF",
+    "name": "Hanstone Gold Corp"
+  },
+  {
+    "symbol": "HANNF",
+    "name": "Hannan Metals Ltd"
+  },
+  {
+    "symbol": "HAPBF",
+    "name": "Hapbee Technologies Inc"
+  },
+  {
+    "symbol": "HARL",
+    "name": "Harleysville Savings Bank"
+  },
+  {
+    "symbol": "HAUP",
+    "name": "Hauppauge Digital"
+  },
+  {
+    "symbol": "HAVLF",
+    "name": "Havn Life Sciences Inc"
+  },
+  {
+    "symbol": "HAWEL",
+    "name": "Hawaiian Elec Inc 5"
+  },
+  {
+    "symbol": "HAWEM",
+    "name": "Hawaiian Electric"
+  },
+  {
+    "symbol": "HAWEN",
+    "name": "Hawaiian Electric CO Inc 4.25% Pfd C"
+  },
+  {
+    "symbol": "HAWLI",
+    "name": "Hawaiian Elec Inc 4"
+  },
+  {
+    "symbol": "HAWLL",
+    "name": "Hawaiian Elec Inc 4"
+  },
+  {
+    "symbol": "HAWLM",
+    "name": "Hawaiian Electric Co. Inc"
+  },
+  {
+    "symbol": "HAWPF",
+    "name": "Haw Par Corp Ltd"
+  },
+  {
+    "symbol": "HAYPY",
+    "name": "Hays Plc"
+  },
+  {
+    "symbol": "HAZH",
+    "name": "Haz Holdings Inc"
+  },
+  {
+    "symbol": "HBCYF",
+    "name": "HSBC Hlds Plc .50Uk"
+  },
+  {
+    "symbol": "HBEIF",
+    "name": "Honey Badger Silver Inc"
+  },
+  {
+    "symbol": "HBEXF",
+    "name": "Royal Fox Gold Inc"
+  },
+  {
+    "symbol": "HBGRY",
+    "name": "Heidelberger Druckmaschinen Ag"
+  },
+  {
+    "symbol": "HBIA",
+    "name": "Hills Bancorp of Iow"
+  },
+  {
+    "symbol": "HBIE",
+    "name": "Hai Jia International Limited Company"
+  },
+  {
+    "symbol": "HBIS",
+    "name": "Home Bistro Inc"
+  },
+  {
+    "symbol": "HBKRF",
+    "name": "Highbank Resources Ltd"
+  },
+  {
+    "symbol": "HBMBF",
+    "name": "Hbm Bioventures Ag"
+  },
+  {
+    "symbol": "HBNNF",
+    "name": "Betapro Natural Gas -2X Daily Bear ETF"
+  },
+  {
+    "symbol": "HBORF",
+    "name": "Harborside Inc"
+  },
+  {
+    "symbol": "HBPCF",
+    "name": "Helix Biopharma Corp"
+  },
+  {
+    "symbol": "HBRIY",
+    "name": "Harbour Energy Plc"
+  },
+  {
+    "symbol": "HBRM",
+    "name": "Herborium Group Inc"
+  },
+  {
+    "symbol": "HBSI",
+    "name": "Highlands Bankshs WV"
+  },
+  {
+    "symbol": "HBTPF",
+    "name": "Horizons Betapro"
+  },
+  {
+    "symbol": "HCAND",
+    "name": "Halo Collective Inc"
+  },
+  {
+    "symbol": "HCANF",
+    "name": "Halo Collective Inc"
+  },
+  {
+    "symbol": "HCBC",
+    "name": "High Country Bncp"
+  },
+  {
+    "symbol": "HCBN",
+    "name": "Hcb Financial Corp"
+  },
+  {
+    "symbol": "HCGI",
+    "name": "Huntwicke Capital Group Inc"
+  },
+  {
+    "symbol": "HCGS",
+    "name": "Highcom Global Security Inc"
+  },
+  {
+    "symbol": "HCHDF",
+    "name": "Hochschild Mining Plc"
+  },
+  {
+    "symbol": "HCKG",
+    "name": "Hocking Valley Bancshares Inc [Oh]"
+  },
+  {
+    "symbol": "HCMC",
+    "name": "Healthier Choices Management Corp"
+  },
+  {
+    "symbol": "HCMLF",
+    "name": "Holcim Ltd Reg Shs"
+  },
+  {
+    "symbol": "HCMLY",
+    "name": "Holcim Ltd ADR"
+  },
+  {
+    "symbol": "HCTPF",
+    "name": "Hutchison Port Holdi"
+  },
+  {
+    "symbol": "HCXLF",
+    "name": "Hiscox Ltd"
+  },
+  {
+    "symbol": "HCXLY",
+    "name": "Hiscox Ltd"
+  },
+  {
+    "symbol": "HCYT",
+    "name": "H-Cyte Inc"
+  },
+  {
+    "symbol": "HDALF",
+    "name": "Haidilao International Holding Ltd"
+  },
+  {
+    "symbol": "HDELY",
+    "name": "Heidelbergcement Ag"
+  },
+  {
+    "symbol": "HDGHF",
+    "name": "Haydale Graphene Industries Plc"
+  },
+  {
+    "symbol": "HDII",
+    "name": "Hypertension Diag"
+  },
+  {
+    "symbol": "HDIQF",
+    "name": "Ishares II Plc."
+  },
+  {
+    "symbol": "HDIUF",
+    "name": "Hardwoods Distribution Income Fu"
+  },
+  {
+    "symbol": "HDNRF",
+    "name": "Homeco Daily Needs"
+  },
+  {
+    "symbol": "HDRSF",
+    "name": "Highland Copper Comp"
+  },
+  {
+    "symbol": "HDSLF",
+    "name": "Hs Govtech Solutions Inc"
+  },
+  {
+    "symbol": "HDUGF",
+    "name": "Hunter Douglas NV"
+  },
+  {
+    "symbol": "HDUP",
+    "name": "Headsup Entertainmen"
+  },
+  {
+    "symbol": "HDVTY",
+    "name": "Henderson Investment Ltd"
+  },
+  {
+    "symbol": "HDVY",
+    "name": "Health Discovery Cp"
+  },
+  {
+    "symbol": "HDYNQ",
+    "name": "Hyperdynamics Corp"
+  },
+  {
+    "symbol": "HECOF",
+    "name": "Global Helium Corp"
+  },
+  {
+    "symbol": "HEGIY",
+    "name": "Hengan Intl Grp ADR"
+  },
+  {
+    "symbol": "HEGLF",
+    "name": "Hill End Gold Ltd"
+  },
+  {
+    "symbol": "HEINY",
+    "name": "Heineken N V/S ADR"
+  },
+  {
+    "symbol": "HELFY",
+    "name": "Hellofresh Se"
+  },
+  {
+    "symbol": "HELKF",
+    "name": "Henkel Ag & CO Kgaa"
+  },
+  {
+    "symbol": "HEME",
+    "name": "Healthmed Svcs Ltd"
+  },
+  {
+    "symbol": "HEMP",
+    "name": "Marijuana Inc"
+  },
+  {
+    "symbol": "HENC",
+    "name": "Hero Technologies Inc"
+  },
+  {
+    "symbol": "HENI",
+    "name": "Hinto Energy Inc"
+  },
+  {
+    "symbol": "HENKY",
+    "name": "Henkel Ag and CO Kg ADR"
+  },
+  {
+    "symbol": "HENOF",
+    "name": "Henkel Kgaa Pfd Ord"
+  },
+  {
+    "symbol": "HENOY",
+    "name": "Henkel Ag and CO Kg ADR"
+  },
+  {
+    "symbol": "HEOFF",
+    "name": "H2O Innovation"
+  },
+  {
+    "symbol": "HERB",
+    "name": "Yasheng Group"
+  },
+  {
+    "symbol": "HERF",
+    "name": "Red Oak Hereford Farms"
+  },
+  {
+    "symbol": "HERTF",
+    "name": "Heritage Cannabis Holdings Corp"
+  },
+  {
+    "symbol": "HERXF",
+    "name": "Heroux-Devtek Inc"
+  },
+  {
+    "symbol": "HESAF",
+    "name": "Hermes Intl S.A."
+  },
+  {
+    "symbol": "HESAY",
+    "name": "Hermes Intl S.A. ADR"
+  },
+  {
+    "symbol": "HEWA",
+    "name": "Healthwarehouse.com"
+  },
+  {
+    "symbol": "HEXPF",
+    "name": "Angel Wing Metals Inc"
+  },
+  {
+    "symbol": "HFBA",
+    "name": "Hfb Fincl Corp"
+  },
+  {
+    "symbol": "HFBK",
+    "name": "Harford Bank [Md]"
+  },
+  {
+    "symbol": "HFGVF",
+    "name": "Hanfeng Evergreen Inc"
+  },
+  {
+    "symbol": "HFIAF",
+    "name": "Hafnia Ltd"
+  },
+  {
+    "symbol": "HGGGQ",
+    "name": "Hhgregg Inc [In]"
+  },
+  {
+    "symbol": "HGGOF",
+    "name": "Highgold Mining Inc"
+  },
+  {
+    "symbol": "HGHAF",
+    "name": "High Arctic Energy"
+  },
+  {
+    "symbol": "HGKGF",
+    "name": "Power Assets Holdings Ltd"
+  },
+  {
+    "symbol": "HGKGY",
+    "name": "Hongkong Electric Hl ADR"
+  },
+  {
+    "symbol": "HGLD",
+    "name": "Hunt Mining Corp"
+  },
+  {
+    "symbol": "HGPI",
+    "name": "Horizon Group Pty"
+  },
+  {
+    "symbol": "HGTXU",
+    "name": "Hugoton Royalty Trust"
+  },
+  {
+    "symbol": "HGYN",
+    "name": "Hong Yuan Hldg Group"
+  },
+  {
+    "symbol": "HHDS",
+    "name": "Highlands REIT Inc"
+  },
+  {
+    "symbol": "HHLKF",
+    "name": "Hot Chili Ltd"
+  },
+  {
+    "symbol": "HHPHF",
+    "name": "Mojave Brands Inc"
+  },
+  {
+    "symbol": "HHSE",
+    "name": "Hannover House Inc"
+  },
+  {
+    "symbol": "HHULY",
+    "name": "Hamburger Hafen Und Logistik Ag"
+  },
+  {
+    "symbol": "HIBRF",
+    "name": "Hibernia REIT Plc"
+  },
+  {
+    "symbol": "HIHI",
+    "name": "Holiday Island Holdings Inc"
+  },
+  {
+    "symbol": "HINKF",
+    "name": "Heineken NV"
+  },
+  {
+    "symbol": "HINOF",
+    "name": "Hino Motors Ltd"
+  },
+  {
+    "symbol": "HINOY",
+    "name": "Hino Motors Ltd"
+  },
+  {
+    "symbol": "HIPH",
+    "name": "American Premium Water Corp"
+  },
+  {
+    "symbol": "HIRRF",
+    "name": "Hire Technologies Inc"
+  },
+  {
+    "symbol": "HIRU",
+    "name": "Hiru Corp"
+  },
+  {
+    "symbol": "HISNF",
+    "name": "HI Sun Technology China Ltd"
+  },
+  {
+    "symbol": "HITC",
+    "name": "Healthcare Integrated Technologies Inc"
+  },
+  {
+    "symbol": "HITTF",
+    "name": "High Tide Inc"
+  },
+  {
+    "symbol": "HJGP",
+    "name": "Hanjiao Group Inc"
+  },
+  {
+    "symbol": "HKHHF",
+    "name": "Heineken Holding NV"
+  },
+  {
+    "symbol": "HKHHY",
+    "name": "Heineken Holding ADR"
+  },
+  {
+    "symbol": "HKMPF",
+    "name": "Hikma Pharmaceutical"
+  },
+  {
+    "symbol": "HKMPY",
+    "name": "Hikma Pharmaceuticals Plc ADR"
+  },
+  {
+    "symbol": "HKSHY",
+    "name": "Hong Kong & Shanghai Hotels"
+  },
+  {
+    "symbol": "HKTGF",
+    "name": "Hikari Tsughin Inc"
+  },
+  {
+    "symbol": "HKTTY",
+    "name": "Hkt Trust and Hkt Ltd ADR"
+  },
+  {
+    "symbol": "HKTVY",
+    "name": "Hong Kong Technology Venture Ltd ADR"
+  },
+  {
+    "symbol": "HKUOY",
+    "name": "Hakuhodo Dy Holdings Inc"
+  },
+  {
+    "symbol": "HKXCF",
+    "name": "Hong Kong Exch & Cle"
+  },
+  {
+    "symbol": "HKXCY",
+    "name": "Hong Kong Exch ADR"
+  },
+  {
+    "symbol": "HLAGF",
+    "name": "Hapag-Lloyd Aktien"
+  },
+  {
+    "symbol": "HLAN",
+    "name": "Heartland Banccorp"
+  },
+  {
+    "symbol": "HLBZF",
+    "name": "Heidelberger Zement"
+  },
+  {
+    "symbol": "HLDCY",
+    "name": "Henderson Land Dev C ADR"
+  },
+  {
+    "symbol": "HLDVF",
+    "name": "Henderson Land Dev"
+  },
+  {
+    "symbol": "HLFDF",
+    "name": "Halfords Group Plc"
+  },
+  {
+    "symbol": "HLFDY",
+    "name": "Halfords Group Plc"
+  },
+  {
+    "symbol": "HLFFF",
+    "name": "Hellofresh Se"
+  },
+  {
+    "symbol": "HLFN",
+    "name": "Home Loan Financial Corp"
+  },
+  {
+    "symbol": "HLKKF",
+    "name": "Pontus Protein Ltd"
+  },
+  {
+    "symbol": "HLLGY",
+    "name": "Hella Kgaa Hueck & CO ."
+  },
+  {
+    "symbol": "HLLK",
+    "name": "Hallmark Venture Group Inc"
+  },
+  {
+    "symbol": "HLLPF",
+    "name": "Hello Pal International Inc"
+  },
+  {
+    "symbol": "HLMAF",
+    "name": "Halma Plc"
+  },
+  {
+    "symbol": "HLMNY",
+    "name": "Holmen Ab"
+  },
+  {
+    "symbol": "HLNFF",
+    "name": "High Liner Foods Inc"
+  },
+  {
+    "symbol": "HLOC",
+    "name": "Helo Corp"
+  },
+  {
+    "symbol": "HLOGF",
+    "name": "Helium One Global Ltd"
+  },
+  {
+    "symbol": "HLPPY",
+    "name": "Hang Lung Ppy ADR"
+  },
+  {
+    "symbol": "HLRD",
+    "name": "Hilliard Corp"
+  },
+  {
+    "symbol": "HLRTF",
+    "name": "Hillcrest Energy Technologies Ltd"
+  },
+  {
+    "symbol": "HLTC",
+    "name": "Healthcare TR Inc"
+  },
+  {
+    "symbol": "HLTEF",
+    "name": "Hilan Tech Ltd"
+  },
+  {
+    "symbol": "HLTOF",
+    "name": "Hellenic Telecommunications Organization S.A."
+  },
+  {
+    "symbol": "HLTOY",
+    "name": "Hellenic Telecommunication Organ ADR"
+  },
+  {
+    "symbol": "HLTRF",
+    "name": "Hls Therapeutics Inc"
+  },
+  {
+    "symbol": "HLTT",
+    "name": "Healthtech Solutions Inc"
+  },
+  {
+    "symbol": "HLUKF",
+    "name": "H Lundbeck A/S"
+  },
+  {
+    "symbol": "HLUYY",
+    "name": "H Lundbeck A/S ADR"
+  },
+  {
+    "symbol": "HLWD",
+    "name": "Almost Never Films Inc"
+  },
+  {
+    "symbol": "HLXW",
+    "name": "Helix Wind Corp"
+  },
+  {
+    "symbol": "HLYK",
+    "name": "Healthlynked Corp"
+  },
+  {
+    "symbol": "HMAGF",
+    "name": "Home24 Ag"
+  },
+  {
+    "symbol": "HMBL",
+    "name": "Humbl Inc"
+  },
+  {
+    "symbol": "HMCBF",
+    "name": "Home Capital Ord Shs"
+  },
+  {
+    "symbol": "HMCTF",
+    "name": "Hna Infrastructure Co. Ltd"
+  },
+  {
+    "symbol": "HMDPF",
+    "name": "Hammond Power Solutn"
+  },
+  {
+    "symbol": "HMENF",
+    "name": "Hemisphere Energy"
+  },
+  {
+    "symbol": "HMLA",
+    "name": "Homeland Resources"
+  },
+  {
+    "symbol": "HMLN",
+    "name": "Hamlin Bk & TR [Pa]"
+  },
+  {
+    "symbol": "HMLSF",
+    "name": "Horizons Marijuana Life Sciences Index ETF"
+  },
+  {
+    "symbol": "HMMR",
+    "name": "Hammer Fiber Optics Holdings Corp"
+  },
+  {
+    "symbol": "HMNTY",
+    "name": "Hemnet Group Ab ADR"
+  },
+  {
+    "symbol": "HMNU",
+    "name": "Human Unitec Intl Inc"
+  },
+  {
+    "symbol": "HMNY",
+    "name": "Helios and Matsn Ana"
+  },
+  {
+    "symbol": "HMPQ",
+    "name": "Hemp Americana"
+  },
+  {
+    "symbol": "HMRZF",
+    "name": "Hennes & Mauritz B F"
+  },
+  {
+    "symbol": "HMSNF",
+    "name": "Hammerson Plc Ord"
+  },
+  {
+    "symbol": "HMSVF",
+    "name": "Homeserve Plc"
+  },
+  {
+    "symbol": "HMTC",
+    "name": "Homasote Company"
+  },
+  {
+    "symbol": "HMTLY",
+    "name": "Hitachi Metals Ltd"
+  },
+  {
+    "symbol": "HMTXF",
+    "name": "Hemostemix Inc"
+  },
+  {
+    "symbol": "HNCKF",
+    "name": "Giga Metals Corp"
+  },
+  {
+    "symbol": "HNDAF",
+    "name": "Honda Motor Ltd"
+  },
+  {
+    "symbol": "HNDI",
+    "name": "Handeni Gold Inc"
+  },
+  {
+    "symbol": "HNFSA",
+    "name": "Hanover Foods Cl A"
+  },
+  {
+    "symbol": "HNFSB",
+    "name": "Hanover Foods Cl B"
+  },
+  {
+    "symbol": "HNGKY",
+    "name": "Hongkong Ld Hld ADR"
+  },
+  {
+    "symbol": "HNHPF",
+    "name": "Hon Hai Precision Industry Ltd"
+  },
+  {
+    "symbol": "HNLGY",
+    "name": "Hang Lung Grp ADR"
+  },
+  {
+    "symbol": "HNNMY",
+    "name": "Hennes & Mauritz Ab"
+  },
+  {
+    "symbol": "HNOI",
+    "name": "Hno International Inc"
+  },
+  {
+    "symbol": "HNORY",
+    "name": "Harvey Norman Holdings Ltd"
+  },
+  {
+    "symbol": "HNRC",
+    "name": "Houston Natural Resources Corp"
+  },
+  {
+    "symbol": "HNSDF",
+    "name": "Hensoldt Ag"
+  },
+  {
+    "symbol": "HNTIF",
+    "name": "Hunting Group Plc"
+  },
+  {
+    "symbol": "HNUZF",
+    "name": "Horzns Betapro Nymex"
+  },
+  {
+    "symbol": "HOCFF",
+    "name": "Hochtief Ag"
+  },
+  {
+    "symbol": "HOCPF",
+    "name": "Hoya Corp"
+  },
+  {
+    "symbol": "HOCPY",
+    "name": "Hoya Corp ADR"
+  },
+  {
+    "symbol": "HOEGF",
+    "name": "Hoegh Autoliner ASA"
+  },
+  {
+    "symbol": "HOFBF",
+    "name": "Hofseth Biocare ASA"
+  },
+  {
+    "symbol": "HOILD",
+    "name": "Hunter Technology Corp"
+  },
+  {
+    "symbol": "HOILF",
+    "name": "Hunter Technology Corp"
+  },
+  {
+    "symbol": "HOJI",
+    "name": "House of Jane"
+  },
+  {
+    "symbol": "HOKCF",
+    "name": "Hong Kong & China GA"
+  },
+  {
+    "symbol": "HOKCY",
+    "name": "Hong Kong & China GA ADR"
+  },
+  {
+    "symbol": "HOMU",
+    "name": "Houmu Hldgs Ltd"
+  },
+  {
+    "symbol": "HONT",
+    "name": "Honat Bancorp Inc"
+  },
+  {
+    "symbol": "HPGLY",
+    "name": "Hapag-Lloyd Aktiengesellschaft ADR"
+  },
+  {
+    "symbol": "HPGSF",
+    "name": "Hipgnosis Songs Fund Ltd"
+  },
+  {
+    "symbol": "HPHTF",
+    "name": "Hamamatsu Photonics"
+  },
+  {
+    "symbol": "HPIL",
+    "name": "Hpil Holding"
+  },
+  {
+    "symbol": "HPKER",
+    "name": "Highpeak Energy Inc"
+  },
+  {
+    "symbol": "HPMCF",
+    "name": "Horn Petroleum"
+  },
+  {
+    "symbol": "HPMM",
+    "name": "Hemp Naturals Inc"
+  },
+  {
+    "symbol": "HPNN",
+    "name": "Hop-On Inc"
+  },
+  {
+    "symbol": "HPQFF",
+    "name": "Hpq-Silicon Resources Inc"
+  },
+  {
+    "symbol": "HPST",
+    "name": "Hempstract Inc"
+  },
+  {
+    "symbol": "HPSYF",
+    "name": "Horizons Psychedelic Stk Index ETF"
+  },
+  {
+    "symbol": "HPTO",
+    "name": "Hopto Inc"
+  },
+  {
+    "symbol": "HPURF",
+    "name": "Hexagon Purus ASA"
+  },
+  {
+    "symbol": "HPYGF",
+    "name": "Bettermood Food Corp"
+  },
+  {
+    "symbol": "HQGE",
+    "name": "Hq Global Ed Inc"
+  },
+  {
+    "symbol": "HRAL",
+    "name": "Hear Atlast Holdings"
+  },
+  {
+    "symbol": "HRBK",
+    "name": "Harbor Bankshares CO"
+  },
+  {
+    "symbol": "HRBR",
+    "name": "Harbor Biosciences Inc"
+  },
+  {
+    "symbol": "HRCXF",
+    "name": "Hurricane Energy"
+  },
+  {
+    "symbol": "HREEF",
+    "name": "Stans Energy Corp"
+  },
+  {
+    "symbol": "HRGG",
+    "name": "Heritage Nola Bancorp Inc"
+  },
+  {
+    "symbol": "HRGLF",
+    "name": "Hargreaves Lansdown"
+  },
+  {
+    "symbol": "HRGLY",
+    "name": "Hargreaves Lansdown"
+  },
+  {
+    "symbol": "HRNNF",
+    "name": "Hydro One Ltd"
+  },
+  {
+    "symbol": "HRRB",
+    "name": "Horizon Bancorp Inc [Az]"
+  },
+  {
+    "symbol": "HRSHF",
+    "name": "Haier Smart Home Ltd"
+  },
+  {
+    "symbol": "HRUFF",
+    "name": "H&R Real Estate Investment T"
+  },
+  {
+    "symbol": "HRVOF",
+    "name": "Harvest One Cannabis Inc"
+  },
+  {
+    "symbol": "HRZSF",
+    "name": "Horizons S&P/Tsx 60 Index ETF"
+  },
+  {
+    "symbol": "HSBI",
+    "name": "Heritage Southeast Bancorp Inc"
+  },
+  {
+    "symbol": "HSCC",
+    "name": "Homeland Security Cp"
+  },
+  {
+    "symbol": "HSDTW",
+    "name": "Helius Med Technologies"
+  },
+  {
+    "symbol": "HSEEF",
+    "name": "Hill Street Beverage"
+  },
+  {
+    "symbol": "HSHCY",
+    "name": "Haier Smart Home CO Ltd"
+  },
+  {
+    "symbol": "HSHZY",
+    "name": "Hoshizaki Corp"
+  },
+  {
+    "symbol": "HSNGF",
+    "name": "Hang Seng Bank Ltd"
+  },
+  {
+    "symbol": "HSNGY",
+    "name": "Hang Seng Bk Ltd Spo ADR"
+  },
+  {
+    "symbol": "HSQVY",
+    "name": "Husqvarna Akiebolag ADR"
+  },
+  {
+    "symbol": "HSRMF",
+    "name": "Hastings Technology Metals Ltd"
+  },
+  {
+    "symbol": "HSTA",
+    "name": "Hestia Insight Inc"
+  },
+  {
+    "symbol": "HSTC",
+    "name": "Hst Global Inc"
+  },
+  {
+    "symbol": "HSTI",
+    "name": "High Sierra Technologies"
+  },
+  {
+    "symbol": "HSTXF",
+    "name": "Heliostar Metals Ltd"
+  },
+  {
+    "symbol": "HSWLF",
+    "name": "Hostelworld Group Plc"
+  },
+  {
+    "symbol": "HTCMF",
+    "name": "Hitachi Construction Machinery Co. Ltd"
+  },
+  {
+    "symbol": "HTCMY",
+    "name": "Hitachi Construction"
+  },
+  {
+    "symbol": "HTHIF",
+    "name": "Hitachi Ltd Ord"
+  },
+  {
+    "symbol": "HTHIY",
+    "name": "Hitachi ADR"
+  },
+  {
+    "symbol": "HTLZF",
+    "name": "Hamilton Thorne Ltd"
+  },
+  {
+    "symbol": "HTSC",
+    "name": "Here To Serve Holding Corp"
+  },
+  {
+    "symbol": "HTWSF",
+    "name": "Helios Towers Plc"
+  },
+  {
+    "symbol": "HUABF",
+    "name": "Huabao International Holdings Ltd"
+  },
+  {
+    "symbol": "HUDRF",
+    "name": "Hudson Resources Inc"
+  },
+  {
+    "symbol": "HUIHY",
+    "name": "Huabao International Holdings Ltd ADR"
+  },
+  {
+    "symbol": "HULCF",
+    "name": "Hulic CO Ltd"
+  },
+  {
+    "symbol": "HUMBF",
+    "name": "Humble & Fume Inc"
+  },
+  {
+    "symbol": "HUML",
+    "name": "Humble Energy Inc"
+  },
+  {
+    "symbol": "HUMRF",
+    "name": "Hummingbird Resource"
+  },
+  {
+    "symbol": "HUMT",
+    "name": "Humatech Inc"
+  },
+  {
+    "symbol": "HUNGF",
+    "name": "Huaneng Pwr Intl"
+  },
+  {
+    "symbol": "HUPHY",
+    "name": "Hutchison Port Holdings Trust"
+  },
+  {
+    "symbol": "HUQVF",
+    "name": "Husqvarna Ab"
+  },
+  {
+    "symbol": "HUSIF",
+    "name": "Nicola Mining Inc"
+  },
+  {
+    "symbol": "HUSQF",
+    "name": "Husqvarna Ab"
+  },
+  {
+    "symbol": "HUTCY",
+    "name": "Hutchison Telecommunications Hong Kong Holdings"
+  },
+  {
+    "symbol": "HVCW",
+    "name": "Harrison Vickers"
+  },
+  {
+    "symbol": "HVGDF",
+    "name": "Harvest Gold Corp"
+  },
+  {
+    "symbol": "HVPQF",
+    "name": "Harbourvest Global Private Equity Ltd"
+  },
+  {
+    "symbol": "HVRRF",
+    "name": "Hannover Ruckvrschng Shs"
+  },
+  {
+    "symbol": "HVRRY",
+    "name": "Hannover Ruckversich ADR"
+  },
+  {
+    "symbol": "HWAL",
+    "name": "Hollywall Entertainment Inc"
+  },
+  {
+    "symbol": "HWAUF",
+    "name": "Headwater Gold Inc"
+  },
+  {
+    "symbol": "HWDJF",
+    "name": "Howden Joinery"
+  },
+  {
+    "symbol": "HWGC",
+    "name": "Hwgc Hldgs Ltd"
+  },
+  {
+    "symbol": "HWIS",
+    "name": "Home Bancorp"
+  },
+  {
+    "symbol": "HWKDF",
+    "name": "Hawkeye Gold & Diamond Inc"
+  },
+  {
+    "symbol": "HWKE",
+    "name": "Hawkeye Systems Inc"
+  },
+  {
+    "symbol": "HWKRF",
+    "name": "Hawkmoon Resources Corp"
+  },
+  {
+    "symbol": "HWNI",
+    "name": "High Wire Networks Inc"
+  },
+  {
+    "symbol": "HWTHF",
+    "name": "China Minerals Mining Corp"
+  },
+  {
+    "symbol": "HXBM",
+    "name": "Helix Biomedix Inc"
+  },
+  {
+    "symbol": "HXGBF",
+    "name": "Hexagon Ab"
+  },
+  {
+    "symbol": "HXGBY",
+    "name": "Hexagon Ab ADR"
+  },
+  {
+    "symbol": "HXGCF",
+    "name": "Hexagon Composites"
+  },
+  {
+    "symbol": "HXLTF",
+    "name": "Heliosx Lithium & Technologies Corp"
+  },
+  {
+    "symbol": "HXPLF",
+    "name": "Hexpol Ab"
+  },
+  {
+    "symbol": "HXPN",
+    "name": "Harris Exploration Inc"
+  },
+  {
+    "symbol": "HYBE",
+    "name": "Hybrid Energy Holdings Inc"
+  },
+  {
+    "symbol": "HYBT",
+    "name": "Heyu Biological Tech Corp"
+  },
+  {
+    "symbol": "HYDI",
+    "name": "Hydromer Inc"
+  },
+  {
+    "symbol": "HYEG",
+    "name": "Hydrogen Engine Center Inc"
+  },
+  {
+    "symbol": "HYEX",
+    "name": "Healthy Extracts Inc"
+  },
+  {
+    "symbol": "HYHDF",
+    "name": "Sixty Six Capital Inc"
+  },
+  {
+    "symbol": "HYHY",
+    "name": "Hydrogen Hybrid Techs Inc"
+  },
+  {
+    "symbol": "HYKUF",
+    "name": "Hyakugo Bank Ltd"
+  },
+  {
+    "symbol": "HYMTF",
+    "name": "Hyundai Motor Reg S"
+  },
+  {
+    "symbol": "HYPMY",
+    "name": "Hypermarcas ADR"
+  },
+  {
+    "symbol": "HYSNF",
+    "name": "Hysan Development Co. Ltd"
+  },
+  {
+    "symbol": "HYSNY",
+    "name": "Hysan Development Ltd ADR"
+  },
+  {
+    "symbol": "HYSR",
+    "name": "Sunhydrogen Inc"
+  },
+  {
+    "symbol": "HZEN",
+    "name": "Grayscale Horizen Trust"
+  },
+  {
+    "symbol": "HZMMD",
+    "name": "Horizonte Minerals Plc"
+  },
+  {
+    "symbol": "HZMMF",
+    "name": "Horizonte Minerals Plc"
+  },
+  {
+    "symbol": "HZNFF",
+    "name": "Horizon Oil Ltd"
+  },
+  {
+    "symbol": "HZNM",
+    "name": "Horizon Minerals Corp"
+  },
+  {
+    "symbol": "HZNOF",
+    "name": "Dexterra Group Inc"
+  },
+  {
+    "symbol": "HZOZF",
+    "name": "Horizons Betapro Nymx Crude Oil Bull Plus ETF"
+  },
+  {
+    "symbol": "HZRGF",
+    "name": "Hazer Group Ltd"
+  },
+  {
+    "symbol": "HZTVF",
+    "name": "Horizons Active U S"
+  },]
